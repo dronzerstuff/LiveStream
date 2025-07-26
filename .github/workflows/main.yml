@@ -17,9 +17,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: list file
+        run: ls 
 
       - name: Run JavaScript file
-        run: node script.js > output.json  # Replace script.js with your JS file name
+        run: node fancode.js > output.json  # Replace script.js with your JS file name
 
       - name: Commit and push JSON output
         run: |
