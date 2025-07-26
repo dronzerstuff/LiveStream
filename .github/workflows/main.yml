@@ -18,9 +18,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm install  # Assumes you have a package.json with required dependencies
-
       - name: Run JavaScript file
         run: node script.js > output.json  # Replace script.js with your JS file name
 
