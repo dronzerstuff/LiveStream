@@ -1,0 +1,35 @@
+name: Run JS and Store JSON
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  run-js:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install  # Assumes you have a package.json with required dependencies
+
+      - name: Run JavaScript file
+        run: node script.js > output.json  # Replace script.js with your JS file name
+
+      - name: Commit and push JSON output
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add output.json
+          git commit -m "Update JSON output from JS script" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
