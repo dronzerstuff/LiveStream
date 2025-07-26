@@ -51,7 +51,7 @@ async function callApisInParallel() {
       }
       return acc;
     }, []);
-    console.log(JSON.parse(output));
+    console.log(JSON.stringify(output));
     return output;
   } catch (error) {
     console.error("Unexpected error calling APIs:", error);
