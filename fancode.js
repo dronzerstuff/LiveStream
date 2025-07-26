@@ -58,4 +58,4 @@ async function callApisInParallel() {
   }
 }
 
-callApisInParallel()
+console.log(callApisInParallel());
