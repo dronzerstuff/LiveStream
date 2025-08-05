@@ -6,27 +6,21 @@
     "match_id": 132470
   },
   {
-    "title": "London Spirit Women vs Oval Invincibles Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132256_5506_LNS-W_OVI-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754444409~acl=/*~id=78174207828388691222539665650785~hmac=f784cc39fecad30710a46d2621e0e35ac2701f622520fa721287ef25e2039a64",
-    "match_id": 132256
-  },
-  {
     "title": "London County Cricket vs Kreative Sports XI",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132060_english_hls_35817ta-di_h264/index.m3u8",
     "match_id": 132060
   },
   {
-    "title": "China vs Saudi Arabia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133184_5549_CHN_SA_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133184_english_hls_51905ta-di_h264/index.m3u8",
-    "match_id": 133184
-  },
-  {
     "title": "Tally Rangers vs Royal Trivianz",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132140_english_hls_2526ta-di_h264/index.m3u8",
     "match_id": 132140
+  },
+  {
+    "title": "China vs Saudi Arabia",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133184_5549_CHN_SA_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133184_english_hls_51905ta-di_h264/index.m3u8",
+    "match_id": 133184
   }
 ]
