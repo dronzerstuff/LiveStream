@@ -30,9 +30,27 @@
     "match_id": 132068
   },
   {
+    "title": "Croatia vs Cyprus",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133316_english_hls_69427ta-di_h264/index.m3u8",
+    "match_id": 133316
+  },
+  {
     "title": "Iraq vs Chinese Taipei",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133191_5549_IRQ_CT_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133191_english_hls_31280ta-di_h264/index.m3u8",
     "match_id": 133191
+  },
+  {
+    "title": "Day 3",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132191_english_hls_63201ta-di_h264/index.m3u8",
+    "match_id": 132191
+  },
+  {
+    "title": "Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132909_english_hls_75747ta-di_h264/index.m3u8",
+    "match_id": 132909
   }
 ]
