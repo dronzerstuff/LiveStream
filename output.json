@@ -18,10 +18,10 @@
     "match_id": 132474
   },
   {
-    "title": "Croatia vs Cyprus",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133316_english_hls_69427ta-di_h264/index.m3u8",
-    "match_id": 133316
+    "title": "Philippines vs New Zealand",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133192_5549_PHP_NZ_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133192_english_hls_45040ta-di_h264/index.m3u8",
+    "match_id": 133192
   },
   {
     "title": "Day 3",
@@ -52,5 +52,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133320_english_hls_71770ta-di_h264/index.m3u8",
     "match_id": 133320
+  },
+  {
+    "title": "Croatia vs Cyprus",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133316_english_hls_69427ta-di_h264/index.m3u8",
+    "match_id": 133316
   }
 ]
