@@ -18,12 +18,6 @@
     "match_id": 132476
   },
   {
-    "title": "Cyprus vs Croatia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133318_english_hls_86242ta-di_h264/index.m3u8",
-    "match_id": 133318
-  },
-  {
     "title": "Paratus Jets vs NPL Bears",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132440_english_hls_89011ta-di_h264/index.m3u8",
@@ -42,16 +36,16 @@
     "match_id": 130019
   },
   {
-    "title": "Pakistan Women vs Ireland Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
-    "match_id": 131607
-  },
-  {
     "title": "Lebanon vs Australia",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133204_5549_LEB_AUS_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133204_english_hls_49350ta-di_h264/index.m3u8",
     "match_id": 133204
+  },
+  {
+    "title": "Pakistan Women vs Ireland Women",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
+    "match_id": 131607
   },
   {
     "title": "Day 4",
@@ -88,5 +82,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133323_english_hls_25347ta-di_h264/index.m3u8",
     "match_id": 133323
+  },
+  {
+    "title": "Cyprus vs Croatia",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133318_english_hls_86242ta-di_h264/index.m3u8",
+    "match_id": 133318
   }
 ]
