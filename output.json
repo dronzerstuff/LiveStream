@@ -24,16 +24,16 @@
     "match_id": 131607
   },
   {
+    "title": "West Indies vs Pakistan",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131399_english_hls_99872ta-di_h264/index.m3u8",
+    "match_id": 131399
+  },
+  {
     "title": "Main Feed - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133324_english_hls_85462ta-di_h264/index.m3u8",
     "match_id": 133324
-  },
-  {
-    "title": "Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133003_english_hls_7299ta-di_h264/index.m3u8",
-    "match_id": 133003
   },
   {
     "title": "Featured Groups - Day 2",
@@ -54,21 +54,9 @@
     "match_id": 131636
   },
   {
-    "title": "Purani Delhi 6 vs New Delhi Tigers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132476_5521_NDT_PD_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132476_english_hls_60928ta-di_h264/index.m3u8",
-    "match_id": 132476
-  },
-  {
     "title": "East Molesey vs Spencer",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132074_english_hls_85506ta-di_h264/index.m3u8",
     "match_id": 132074
-  },
-  {
-    "title": "West Indies vs Pakistan",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131399_english_hls_99872ta-di_h264/index.m3u8",
-    "match_id": 131399
   }
 ]
