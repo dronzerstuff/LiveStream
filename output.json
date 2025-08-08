@@ -6,18 +6,6 @@
     "match_id": 128761
   },
   {
-    "title": "Outer Delhi Warriors vs East Delhi Riders",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132475_5521_EDR_ODW_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132475_english_hls_91610ta-di_h264/index.m3u8",
-    "match_id": 132475
-  },
-  {
-    "title": "Wimbledon vs East Molesey",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132072_english_hls_47022ta-di_h264/index.m3u8",
-    "match_id": 132072
-  },
-  {
     "title": "Cyprus vs Croatia",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133318_english_hls_86242ta-di_h264/index.m3u8",
@@ -60,9 +48,21 @@
     "match_id": 133324
   },
   {
-    "title": "Shivamogga Lioness Women vs Mangaluru Dragons Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132926_english_hls_17022ta-di_h264/index.m3u8",
-    "match_id": 132926
+    "title": "Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133003_english_hls_7299ta-di_h264/index.m3u8",
+    "match_id": 133003
+  },
+  {
+    "title": "Featured Groups - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133325_english_hls_74220ta-di_h264/index.m3u8",
+    "match_id": 133325
+  },
+  {
+    "title": "Outer Delhi Warriors vs East Delhi Riders",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132475_5521_EDR_ODW_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132475_english_hls_91610ta-di_h264/index.m3u8",
+    "match_id": 132475
   }
 ]
