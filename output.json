@@ -1,11 +1,5 @@
 [
   {
-    "title": "India vs Saudi Arabia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133196_english_hls_65865ta-di_h264/index.m3u8",
-    "match_id": 133196
-  },
-  {
     "title": "Newcastle United vs Atlético de Madrid",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/129906_english_hls_37591ta-di_h264/index.m3u8",
@@ -18,40 +12,16 @@
     "match_id": 132261
   },
   {
-    "title": "Simhadri Vizag Lions vs Tungabhadra Warriors",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132762_5529_TBW_SVL_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132762_english_hls_17970ta-di_h264/index.m3u8",
-    "match_id": 132762
-  },
-  {
-    "title": "Stoke City vs Derby County",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Stoke-City-VS-Derby-County_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131990_english_hls_69257ta-di_h264/index.m3u8",
-    "match_id": 131990
-  },
-  {
-    "title": "Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133382_english_hls_96027ta-di_h264/index.m3u8",
-    "match_id": 133382
-  },
-  {
-    "title": "Day 3",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132911_english_hls_94868ta-di_h264/index.m3u8",
-    "match_id": 132911
+    "title": "India vs Saudi Arabia",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133196_english_hls_65865ta-di_h264/index.m3u8",
+    "match_id": 133196
   },
   {
     "title": "Main Feed - Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133328_english_hls_21645ta-di_h264/index.m3u8",
     "match_id": 133328
-  },
-  {
-    "title": "Dubai Duty Free Shergar Cup",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Shergar-Cup_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133387_english_hls_25304ta-di_h264/index.m3u8",
-    "match_id": 133387
   },
   {
     "title": "Featured Groups - Day 3",
@@ -70,5 +40,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133329_english_hls_93256ta-di_h264/index.m3u8",
     "match_id": 133329
+  },
+  {
+    "title": "Simhadri Vizag Lions vs Tungabhadra Warriors",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132762_5529_TBW_SVL_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132762_english_hls_17970ta-di_h264/index.m3u8",
+    "match_id": 132762
+  },
+  {
+    "title": "Stoke City vs Derby County",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Stoke-City-VS-Derby-County_old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131990_english_hls_69257ta-di_h264/index.m3u8",
+    "match_id": 131990
   }
 ]
