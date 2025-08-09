@@ -1,21 +1,9 @@
 [
   {
-    "title": "Central Delhi Kings vs Outer Delhi Warriors",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132477_english_hls_7256ta-di_h264/index.m3u8",
-    "match_id": 132477
-  },
-  {
     "title": "Manchester Originals Women vs Oval Invincibles Women",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754776941~acl=/*~id=19034740370427861482217108910354~hmac=578c222b7f16464866cabfd0d09392abce607f181b76e25590d47098450f305c",
     "match_id": 132260
-  },
-  {
-    "title": "Zimbabwe vs New Zealand",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-Tour-of-Zimbabwe-(Tests)old-match-card-.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/128761_english_hls_66924ta-di_h264/index.m3u8",
-    "match_id": 128761
   },
   {
     "title": "Gauhati Town Club vs Navarang Club",
@@ -58,12 +46,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132441_english_hls_28237ta-di_h264/index.m3u8",
     "match_id": 132441
-  },
-  {
-    "title": "Cyprus vs Croatia",
-    "image": "https://images.fancode.com/aig/match/v1/133389_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133389_english_hls_45031ta-di_h264/index.m3u8",
-    "match_id": 133389
   },
   {
     "title": "Yokohama vs Urawa Red Diamonds",
