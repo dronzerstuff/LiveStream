@@ -1,21 +1,9 @@
 [
   {
-    "title": "Chelsea vs Milan",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131245_english_hls_17314ta-di_h264/index.m3u8",
-    "match_id": 131245
-  },
-  {
     "title": "Borussia Dortmund vs Juventus",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
     "match_id": 131244
-  },
-  {
-    "title": "Birmingham Phoenix vs Southern Brave",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805",
-    "match_id": 132228
   },
   {
     "title": "East Delhi Riders vs West Delhi Lions",
