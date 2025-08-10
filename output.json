@@ -30,6 +30,12 @@
     "match_id": 133199
   },
   {
+    "title": "Pupkewitz Motors Wildcats vs Paratus Jets",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132444_english_hls_63885ta-di_h264/index.m3u8",
+    "match_id": 132444
+  },
+  {
     "title": "Machida Zelvia vs Vissel Kobe",
     "image": "https://images.fancode.com/aig/match/v1/132075_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132075_english_hls_17425ta-di_h264/index.m3u8",
@@ -70,11 +76,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133333_english_hls_82298ta-di_h264/index.m3u8",
     "match_id": 133333
-  },
-  {
-    "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
-    "image": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132078_english_hls_71453ta-di_h264/index.m3u8",
-    "match_id": 132078
   }
 ]
