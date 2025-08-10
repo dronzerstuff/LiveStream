@@ -6,12 +6,6 @@
     "match_id": 132262
   },
   {
-    "title": "Australia A Women vs India A Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133231_english_hls_16260ta-di_h264/index.m3u8",
-    "match_id": 133231
-  },
-  {
     "title": "North Delhi Strikers vs Purani Delhi 6",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132479_5521_PD_NDS_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132479_english_hls_10902ta-di_h264/index.m3u8",
@@ -36,6 +30,12 @@
     "match_id": 133394
   },
   {
+    "title": "Guam vs Japan",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133199_5549_GUA_JPN_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133199_english_hls_82580ta-di_h264/index.m3u8",
+    "match_id": 133199
+  },
+  {
     "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
     "image": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132078_english_hls_71453ta-di_h264/index.m3u8",
@@ -46,12 +46,6 @@
     "image": "https://images.fancode.com/aig/match/v1/132075_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132075_english_hls_17425ta-di_h264/index.m3u8",
     "match_id": 132075
-  },
-  {
-    "title": "Guam vs Japan",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133199_5549_GUA_JPN_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133199_english_hls_82580ta-di_h264/index.m3u8",
-    "match_id": 133199
   },
   {
     "title": "Borussia Dortmund Women vs Juventus Femminile",
@@ -70,11 +64,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Nexo-Championship-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132912_english_hls_21579ta-di_h264/index.m3u8",
     "match_id": 132912
-  },
-  {
-    "title": "Nabajyoti Club vs Guwahati Giants",
-    "image": "https://images.fancode.com/aig/match/v2/132414_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132414_english_hls_91733ta-di_h264/index.m3u8",
-    "match_id": 132414
   }
 ]
