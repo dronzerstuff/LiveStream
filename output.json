@@ -24,9 +24,21 @@
     "match_id": 132644
   },
   {
+    "title": "Cyprus vs Croatia",
+    "image": "https://images.fancode.com/aig/match/v1/133392_CASACARDS_APP.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133392_english_hls_37703ta-di_h264/index.m3u8",
+    "match_id": 133392
+  },
+  {
     "title": "Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8",
     "match_id": 133383
+  },
+  {
+    "title": "Qualifying 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133246_english_hls_7646ta-di_h264/index.m3u8",
+    "match_id": 133246
   }
 ]
