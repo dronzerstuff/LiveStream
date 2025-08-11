@@ -6,9 +6,21 @@
     "match_id": 132415
   },
   {
+    "title": "Zagreb Sokol vs Zagreb Warriors",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133400_english_hls_40528ta-di_h264/index.m3u8",
+    "match_id": 133400
+  },
+  {
     "title": "Third Place & Finals",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133179_english_hls_19664ta-di_h264/index.m3u8",
     "match_id": 133179
+  },
+  {
+    "title": "Semi-Finals",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Girls_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133180_english_hls_6671ta-di_h264/index.m3u8",
+    "match_id": 133180
   }
 ]
