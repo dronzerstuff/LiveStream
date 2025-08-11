@@ -1,11 +1,5 @@
 [
   {
-    "title": "Manchester Originals Women vs London Spirit Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132264_5506_MNR-W_LNS-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754963932~acl=/*~id=02214091160299566694424964618392~hmac=fb6c2f7ad7413aba45c1a847020518259fc4df13867066c999cd57facdb4363e",
-    "match_id": 132264
-  },
-  {
     "title": "North Delhi Strikers vs West Delhi Lions",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132482_5521_NDS_WDL_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132482_english_hls_59247ta-di_h264/index.m3u8",
@@ -28,6 +22,12 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133371_5560_SU_RAJ_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133541_english_hls_64547ta-di_h264/index.m3u8",
     "match_id": 133541
+  },
+  {
+    "title": "CECC vs Royal Trivianz",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132150_english_hls_99110ta-di_h264/index.m3u8",
+    "match_id": 132150
   },
   {
     "title": "Saudi Arabia vs Philippines",
