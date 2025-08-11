@@ -12,12 +12,6 @@
     "match_id": 132785
   },
   {
-    "title": "Navarang Club vs Guwahati Giants",
-    "image": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132416_english_hls_3331ta-di_h264/index.m3u8",
-    "match_id": 132416
-  },
-  {
     "title": "Tungabhadra Warriors vs Amaravathi Royals",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132765_english_hls_65045ta-di_h264/index.m3u8",
@@ -40,11 +34,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Taipei-vs-Jordan-old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133252_english_hls_72514ta-di_h264/index.m3u8",
     "match_id": 133252
-  },
-  {
-    "title": "Rijeka Markhors vs Zagreb Sokol",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133401_english_hls_22476ta-di_h264/index.m3u8",
-    "match_id": 133401
   }
 ]
