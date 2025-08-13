@@ -6,12 +6,6 @@
     "match_id": 132790
   },
   {
-    "title": "Welsh Fire Women vs Manchester Originals Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132267_5506_WEF-W_MNR-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755136803~acl=/*~id=93070630916337657734235579475323~hmac=76547a400989d2078787e8353b1895d16eba6ac2711e79ffd9744863150fb5cd",
-    "match_id": 132267
-  },
-  {
     "title": "Southern Brave vs Northern Superchargers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132232_5505_SOB_NOS_fc-web.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755136803~acl=/*~id=93070630916337657734235579475323~hmac=76547a400989d2078787e8353b1895d16eba6ac2711e79ffd9744863150fb5cd",
@@ -24,15 +18,15 @@
     "match_id": 133414
   },
   {
-    "title": "Iran vs Chinese Taipei",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133257_english_hls_96422ta-di_h264/index.m3u8",
-    "match_id": 133257
-  },
-  {
     "title": "SBS CC vs Jhelum Jaguars",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132154_english_hls_68543ta-di_h264/index.m3u8",
     "match_id": 132154
+  },
+  {
+    "title": "Iran vs Chinese Taipei",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133257_english_hls_96422ta-di_h264/index.m3u8",
+    "match_id": 133257
   }
 ]
