@@ -18,12 +18,6 @@
     "match_id": 132232
   },
   {
-    "title": "Vijayawada Sunshiners vs Bhimavaram Bulls",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132770_5529_VSS_BVB_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132770_english_hls_5825ta-di_h264/index.m3u8",
-    "match_id": 132770
-  },
-  {
     "title": "Rijeka Markhors vs Zagreb Assassins",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133414_english_hls_88477ta-di_h264/index.m3u8",
@@ -34,5 +28,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ran-vs-Chinese-old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133257_english_hls_96422ta-di_h264/index.m3u8",
     "match_id": 133257
+  },
+  {
+    "title": "SBS CC vs Jhelum Jaguars",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132154_english_hls_68543ta-di_h264/index.m3u8",
+    "match_id": 132154
   }
 ]
