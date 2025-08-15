@@ -12,12 +12,6 @@
     "match_id": 132793
   },
   {
-    "title": "Perth Scorchers Academy vs Chicago Kingsmen",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133502_5574_CHK_PSA_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133502_english_hls_8b14934f1975658ta-di_h264/index.m3u8",
-    "match_id": 133502
-  },
-  {
     "title": "Majees Titans vs Royal Oman Stallions",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133670_5590_ROS_MAT_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133670_english_hls_3f33fb39a753473ta-di_h264/index.m3u8",
@@ -46,5 +40,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133865_english_hls_b5f41bc2649262ta-di_h264/index.m3u8",
     "match_id": 133865
+  },
+  {
+    "title": "Perth Scorchers Academy vs Chicago Kingsmen",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133502_5574_CHK_PSA_fc-web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133502_english_hls_8b14934f1975658ta-di_h264/index.m3u8",
+    "match_id": 133502
   }
 ]
