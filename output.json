@@ -36,7 +36,7 @@
     "match_id": 133422
   },
   {
-    "title": "Bhimavaram Bulls vs Tungabhadra Warriors",
+    "title": "Tungabhadra Warriors vs Bhimavaram Bulls",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132772_english_hls_953c27b3a013619ta-di_h264/index.m3u8",
     "match_id": 132772
@@ -72,9 +72,15 @@
     "match_id": 133265
   },
   {
-    "title": "Vizianagaram Ninjas vs Bhimavaram Guardians",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133704_5591_VN_BG_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133704_english_hls_f644d80e1712072ta-di_h264/index.m3u8",
-    "match_id": 133704
+    "title": "Featured Group - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133268_english_hls_bc2ceb8efd18031ta-di_h264/index.m3u8",
+    "match_id": 133268
+  },
+  {
+    "title": "Featured Holes - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133267_english_hls_a48af8880669643ta-di_h264/index.m3u8",
+    "match_id": 133267
   }
 ]
