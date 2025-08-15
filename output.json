@@ -12,10 +12,16 @@
     "match_id": 132793
   },
   {
-    "title": "Hungary vs Sweden",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133866_english_hls_a9929b9d8b94055ta-di_h264/index.m3u8",
-    "match_id": 133866
+    "title": "Outer Delhi Warriors vs South Delhi Superstarz",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132485_5521_ODW_SDS_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132485_english_hls_21999c231a24628ta-di_h264/index.m3u8",
+    "match_id": 132485
+  },
+  {
+    "title": "Mangaluru Dragons vs Hubli Tigers",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132794_5530_HT_MD_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132794_english_hls_4a6d4b8ffc64422ta-di_h264/index.m3u8",
+    "match_id": 132794
   },
   {
     "title": "Muscat Thunders vs Renaissance Challengers",
@@ -36,16 +42,10 @@
     "match_id": 132772
   },
   {
-    "title": "Vizianagaram Ninjas vs Bhimavaram Guardians",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133704_5591_VN_BG_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133704_english_hls_f644d80e1712072ta-di_h264/index.m3u8",
-    "match_id": 133704
-  },
-  {
-    "title": "Vedanta Leopards vs Vernost Jaguars",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132936_5502_LEO_JA_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132936_english_hls_dd9454add663578ta-di_h264/index.m3u8",
-    "match_id": 132936
+    "title": "Norway vs Hungary",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133867_english_hls_d2cb3f17e087353ta-di_h264/index.m3u8",
+    "match_id": 133867
   },
   {
     "title": "Day 2",
@@ -60,9 +60,21 @@
     "match_id": 132201
   },
   {
-    "title": "Khan Tigers vs TBC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Padel_Tennis-1440-x-360.jpg",
+    "title": "Khan Tigers vs Vedanta Leopards",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132937_5502_TIG_LEO_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132937_english_hls_77e86ec43540054ta-di_h264/index.m3u8",
     "match_id": 132937
+  },
+  {
+    "title": "Main Feed - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133265_english_hls_474b15eaea48622ta-di_h264/index.m3u8",
+    "match_id": 133265
+  },
+  {
+    "title": "Vizianagaram Ninjas vs Bhimavaram Guardians",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133704_5591_VN_BG_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133704_english_hls_f644d80e1712072ta-di_h264/index.m3u8",
+    "match_id": 133704
   }
 ]
