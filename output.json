@@ -1,5 +1,11 @@
 [
   {
+    "title": "Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/old-recvised.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/119154_english_hls_a6a65d5b9e28743ta-di_h264/index.m3u8",
+    "match_id": 119154
+  },
+  {
     "title": "Perth Scorchers Academy vs Chicago Kingsmen",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133502_5574_CHK_PSA_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133502_english_hls_8b14934f1975658ta-di_h264/index.m3u8",
@@ -22,11 +28,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133864_english_hls_e2b5cb8bfa64939ta-di_h264/index.m3u8",
     "match_id": 133864
-  },
-  {
-    "title": "Austria GP",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/old-recvised.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/119154_english_hls_a6a65d5b9e28743ta-di_h264/index.m3u8",
-    "match_id": 119154
   }
 ]
