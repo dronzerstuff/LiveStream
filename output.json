@@ -6,12 +6,6 @@
     "match_id": 119154
   },
   {
-    "title": "Shivamogga Lions vs Bengaluru Blasters",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132793_5530_SS_BB_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132793_english_hls_f1a7d2432210814ta-di_h264/index.m3u8",
-    "match_id": 132793
-  },
-  {
     "title": "Outer Delhi Warriors vs South Delhi Superstarz",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132485_5521_ODW_SDS_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132485_english_hls_21999c231a24628ta-di_h264/index.m3u8",
@@ -24,16 +18,16 @@
     "match_id": 132794
   },
   {
+    "title": "Birmingham Phoenix Women vs Northern Superchargers Women",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132269_5506_NOS-W_BPH-W_Fc-Web.jpg",
+    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755309794~acl=/*~id=15500384549201577200498814925920~hmac=68f3480f0d62270f50b7e04946872574fde7e87666536b5cf932534d0d040df9",
+    "match_id": 132269
+  },
+  {
     "title": "Muscat Thunders vs Renaissance Challengers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133671_5590_MUT_RNC_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133671_english_hls_81cde183dc27720ta-di_h264/index.m3u8",
     "match_id": 133671
-  },
-  {
-    "title": "Rijeka Markhors vs Sir Oliver Split",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133422_english_hls_e51d56559474357ta-di_h264/index.m3u8",
-    "match_id": 133422
   },
   {
     "title": "Tungabhadra Warriors vs Bhimavaram Bulls",
@@ -82,5 +76,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133267_english_hls_a48af8880669643ta-di_h264/index.m3u8",
     "match_id": 133267
+  },
+  {
+    "title": "Marquee Group - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133266_english_hls_a4c77e7e2515695ta-di_h264/index.m3u8",
+    "match_id": 133266
+  },
+  {
+    "title": "Rijeka Markhors vs Sir Oliver Split",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133422_english_hls_e51d56559474357ta-di_h264/index.m3u8",
+    "match_id": 133422
   }
 ]
