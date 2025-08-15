@@ -12,12 +12,6 @@
     "match_id": 132793
   },
   {
-    "title": "Northern Territory Strike vs Nepal",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133503_5574_NTS_NEP_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133503_english_hls_ddbfb360ed96721ta-di_h264/index.m3u8",
-    "match_id": 133503
-  },
-  {
     "title": "Hungary vs Sweden",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133866_english_hls_a9929b9d8b94055ta-di_h264/index.m3u8",
@@ -36,10 +30,10 @@
     "match_id": 133422
   },
   {
-    "title": "Kakinada Kraken vs Kurnool Knights",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133703_5591_KK_KKK_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133703_english_hls_098a6d834e52156ta-di_h264/index.m3u8",
-    "match_id": 133703
+    "title": "Vizianagaram Ninjas vs Bhimavaram Guardians",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133704_5591_VN_BG_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133704_english_hls_f644d80e1712072ta-di_h264/index.m3u8",
+    "match_id": 133704
   },
   {
     "title": "Vedanta Leopards vs Vernost Jaguars",
@@ -58,5 +52,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132201_english_hls_2cb600908649082ta-di_h264/index.m3u8",
     "match_id": 132201
+  },
+  {
+    "title": "Khan Tigers vs TBC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Padel_Tennis-1440-x-360.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132937_english_hls_77e86ec43540054ta-di_h264/index.m3u8",
+    "match_id": 132937
+  },
+  {
+    "title": "Kakinada Kraken vs Kurnool Knights",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133703_5591_KK_KKK_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133703_english_hls_098a6d834e52156ta-di_h264/index.m3u8",
+    "match_id": 133703
   }
 ]
