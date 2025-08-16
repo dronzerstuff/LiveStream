@@ -30,12 +30,6 @@
     "match_id": 133674
   },
   {
-    "title": "Norway vs Sweden",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
-    "match_id": 133871
-  },
-  {
     "title": "Kakinada Kings vs Tungabhadra Warriors",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
@@ -72,12 +66,6 @@
     "match_id": 132446
   },
   {
-    "title": "Gamechangers Lions vs Vedanta Leopards",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132940_5502_LO_LEO_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132940_english_hls_5aefb48e2c73293ta-di_h264/index.m3u8",
-    "match_id": 132940
-  },
-  {
     "title": "Main Feed - Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133270_english_hls_d01e40129e41883ta-di_h264/index.m3u8",
@@ -102,15 +90,9 @@
     "match_id": 133271
   },
   {
-    "title": "Bangladesh A vs Nepal",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133507_5574_BN-A_NEP_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133507_english_hls_d9fdb12efc69653ta-di_h264/index.m3u8",
-    "match_id": 133507
-  },
-  {
-    "title": "Lavender Lionesses-W vs Jinx Zagreb-W",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134049_english_hls_814cb5588610886ta-di_h264/index.m3u8",
-    "match_id": 134049
+    "title": "Norway vs Sweden",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
+    "match_id": 133871
   }
 ]
