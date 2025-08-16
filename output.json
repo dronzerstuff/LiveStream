@@ -12,12 +12,6 @@
     "match_id": 132796
   },
   {
-    "title": "Southern Brave vs Trent Rockets",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132236_5505_TRT_SOB_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755394525~acl=/*~id=27142293132647275406860127694514~hmac=681d0cd50b0ba4acf966c72206d567e02a70eb2eb252f1c292b2d7cc442187b3",
-    "match_id": 132236
-  },
-  {
     "title": "Kakinada Kings vs Tungabhadra Warriors",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
@@ -28,6 +22,12 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133675_5590_RNC_YSG_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133675_english_hls_b6d2a6fc804090ta-di_h264/index.m3u8",
     "match_id": 133675
+  },
+  {
+    "title": "Royal Trivianz vs SBS CC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132161_english_hls_c6e55be62250631ta-di_h264/index.m3u8",
+    "match_id": 132161
   },
   {
     "title": "Australia vs Iran",
@@ -78,9 +78,9 @@
     "match_id": 132271
   },
   {
-    "title": "Royal Trivianz vs SBS CC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132161_english_hls_c6e55be62250631ta-di_h264/index.m3u8",
-    "match_id": 132161
+    "title": "Southern Brave vs Trent Rockets",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132236_5505_TRT_SOB_fc-web.jpg",
+    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755394525~acl=/*~id=27142293132647275406860127694514~hmac=681d0cd50b0ba4acf966c72206d567e02a70eb2eb252f1c292b2d7cc442187b3",
+    "match_id": 132236
   }
 ]
