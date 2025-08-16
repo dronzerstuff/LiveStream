@@ -1,17 +1,5 @@
 [
   {
-    "title": "Trent Rockets Women vs Southern Brave Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132270_5506_TRT-W_SOB-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755381709~acl=/*~id=63846497389759607264304861357576~hmac=4d17623cc129d784171a1705f75a39d09013c90d3c1f07e86ff4580466c2b256",
-    "match_id": 132270
-  },
-  {
-    "title": "New Delhi Tigers vs West Delhi Lions",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132486_english_hls_309225818c56845ta-di_h264/index.m3u8",
-    "match_id": 132486
-  },
-  {
     "title": "Shivamogga Lions vs Gulbarga Mystics",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132795_5530_SS_GMY_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132795_english_hls_0d2b7f870787461ta-di_h264/index.m3u8",
@@ -36,16 +24,22 @@
     "match_id": 134049
   },
   {
+    "title": "Norway vs Sweden",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
+    "match_id": 133871
+  },
+  {
+    "title": "Kakinada Kings vs Tungabhadra Warriors",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
+    "match_id": 132774
+  },
+  {
     "title": "Wrexham vs West Bromwich Albion",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-West-Bromwich-Albion_old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131994_english_hls_445bd85cda2474ta-di_h264/index.m3u8",
     "match_id": 131994
-  },
-  {
-    "title": "China vs New Zealand",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133296_english_hls_24c567b37834025ta-di_h264/index.m3u8",
-    "match_id": 133296
   },
   {
     "title": "Amaravati Crushers vs Tirupati Raiders",
@@ -78,9 +72,9 @@
     "match_id": 132940
   },
   {
-    "title": "Hungary vs Norway",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
-    "match_id": 133870
+    "title": "Main Feed - Day 3",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133270_english_hls_d01e40129e41883ta-di_h264/index.m3u8",
+    "match_id": 133270
   }
 ]
