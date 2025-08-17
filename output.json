@@ -12,16 +12,16 @@
     "match_id": 132239
   },
   {
-    "title": "Norway vs Hungary",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133875_english_hls_91b25f01ca13147ta-di_h264/index.m3u8",
-    "match_id": 133875
-  },
-  {
     "title": "Muscat Thunders vs Royal Oman Stallions",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133677_english_hls_b470d2065940576ta-di_h264/index.m3u8",
     "match_id": 133677
+  },
+  {
+    "title": "CECC vs Tally Rangers",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132164_english_hls_786aa68af627245ta-di_h264/index.m3u8",
+    "match_id": 132164
   },
   {
     "title": "Athletic Club vs Sevilla",
@@ -76,5 +76,11 @@
     "image": "https://images.fancode.com/aig/match/v1/132868_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132868_english_hls_c72e7147dd73932ta-di_h264/index.m3u8",
     "match_id": 132868
+  },
+  {
+    "title": "Norway vs Hungary",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133875_english_hls_91b25f01ca13147ta-di_h264/index.m3u8",
+    "match_id": 133875
   }
 ]
