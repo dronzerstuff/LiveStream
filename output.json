@@ -1,17 +1,5 @@
 [
   {
-    "title": "Espanyol vs Atlético de Madrid",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Espanyol-VS-Atletico-de-Madrid_oldmatchcard_logoVSlogo.jpg",
-    "link": "https://d2dfjutam85rgs.cloudfront.net/out/v1/8ff9c8bfc05e4fa587517611bcda532c/index.m3u8",
-    "match_id": 130837
-  },
-  {
-    "title": "Huesca vs Leganés",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/134125_5572_HUE_LEG_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134125_english_hls_681bdd81bc22389ta-di_h264/index.m3u8",
-    "match_id": 134125
-  },
-  {
     "title": "Featured Group - Day 4",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133278_english_hls_649da5f99f37815ta-di_h264/index.m3u8",
@@ -28,11 +16,5 @@
     "image": "https://images.fancode.com/aig/match/v1/132868_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132868_english_hls_c72e7147dd73932ta-di_h264/index.m3u8",
     "match_id": 132868
-  },
-  {
-    "title": "Norway vs Hungary",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133875_english_hls_91b25f01ca13147ta-di_h264/index.m3u8",
-    "match_id": 133875
   }
 ]
