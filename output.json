@@ -1,11 +1,5 @@
 [
   {
-    "title": "Mysore Warriors vs Shivamogga Lions",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web_1755374792844.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132798_english_hls_9fa7bda7a41646ta-di_h264/index.m3u8",
-    "match_id": 132798
-  },
-  {
     "title": "Trinbago Knight Riders vs St Kitts and Nevis Patriots",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132349_5512_SKN_TKR_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132349_english_hls_692f622e9749387ta-di_h264/index.m3u8",
@@ -30,22 +24,10 @@
     "match_id": 133677
   },
   {
-    "title": "ACE KRM Panthers vs NCM Investment",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132163_english_hls_8f0cdd971c43776ta-di_h264/index.m3u8",
-    "match_id": 132163
-  },
-  {
     "title": "Athletic Club vs Sevilla",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Athletic-Club-VS-Sevilla_Old_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130834_english_hls_b1d3a2f40490237ta-di_h264/index.m3u8",
     "match_id": 130834
-  },
-  {
-    "title": "Australia vs China",
-    "image": "https://images.fancode.com/aig/match/v1/133299_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133299_english_hls_94798676a584409ta-di_h264/index.m3u8",
-    "match_id": 133299
   },
   {
     "title": "Main Feed - Day 4",
@@ -90,9 +72,9 @@
     "match_id": 133279
   },
   {
-    "title": "South Delhi Superstarz vs Purani Delhi 6",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132488_5521_SDS_PD_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132488_english_hls_4b2fceaef045396ta-di_h264/index.m3u8",
-    "match_id": 132488
+    "title": "St. Louis Cardinals vs New York Yankees",
+    "image": "https://images.fancode.com/aig/match/v1/132868_CASACARDS_APP.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132868_english_hls_c72e7147dd73932ta-di_h264/index.m3u8",
+    "match_id": 132868
   }
 ]
