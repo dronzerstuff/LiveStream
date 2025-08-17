@@ -1,17 +1,5 @@
 [
   {
-    "title": "London Spirit Women vs Birmingham Phoenix Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132273_5506_BPH-W_LNS-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755480420~acl=/*~id=24855709020640125688812366201849~hmac=37c756a848914e0abd1bdb9b373ef1b6bc03f5cf1614efe6e0936f43e528b2ad",
-    "match_id": 132273
-  },
-  {
-    "title": "Manchester Originals vs Northern Superchargers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132238_5505_MNR_NOS_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755480420~acl=/*~id=24855709020640125688812366201849~hmac=37c756a848914e0abd1bdb9b373ef1b6bc03f5cf1614efe6e0936f43e528b2ad",
-    "match_id": 132238
-  },
-  {
     "title": "South Delhi Superstarz vs Purani Delhi 6",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132488_5521_SDS_PD_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132488_english_hls_4b2fceaef045396ta-di_h264/index.m3u8",
@@ -48,10 +36,22 @@
     "match_id": 133677
   },
   {
+    "title": "ACE KRM Panthers vs NCM Investment",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132163_english_hls_8f0cdd971c43776ta-di_h264/index.m3u8",
+    "match_id": 132163
+  },
+  {
     "title": "Celta de Vigo vs Getafe",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Celta-de-Vigo-VS-Getafe_Old_match-card.jpg",
     "link": "https://d2fk3hxen8v0uv.cloudfront.net/out/v1/bf34ff5dfc4c4546ad4927f68a1224c5/index.m3u8",
     "match_id": 130835
+  },
+  {
+    "title": "Australia vs China",
+    "image": "https://images.fancode.com/aig/match/v1/133299_CASACARDS_APP.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133299_english_hls_94798676a584409ta-di_h264/index.m3u8",
+    "match_id": 133299
   },
   {
     "title": "Main Feed - Day 4",
