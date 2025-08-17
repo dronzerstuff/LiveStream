@@ -12,12 +12,6 @@
     "match_id": 132239
   },
   {
-    "title": "Muscat Thunders vs Royal Oman Stallions",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133677_english_hls_b470d2065940576ta-di_h264/index.m3u8",
-    "match_id": 133677
-  },
-  {
     "title": "CECC vs Tally Rangers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132164_english_hls_786aa68af627245ta-di_h264/index.m3u8",
@@ -60,12 +54,6 @@
     "match_id": 133386
   },
   {
-    "title": "Washington Nationals vs Philadelphia Phillies",
-    "image": "https://images.fancode.com/aig/match/v1/132867_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132867_english_hls_9ccfd06f7c99867ta-di_h264/index.m3u8",
-    "match_id": 132867
-  },
-  {
     "title": "World Feed - Day 4",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133279_english_hls_2ce1cc575375420ta-di_h264/index.m3u8",
@@ -78,15 +66,15 @@
     "match_id": 132868
   },
   {
-    "title": "Trinbago Knight Riders vs St Kitts and Nevis Patriots",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132349_5512_SKN_TKR_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132349_english_hls_692f622e9749387ta-di_h264/index.m3u8",
-    "match_id": 132349
-  },
-  {
     "title": "Norway vs Hungary",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133875_english_hls_91b25f01ca13147ta-di_h264/index.m3u8",
     "match_id": 133875
+  },
+  {
+    "title": "Muscat Thunders vs Royal Oman Stallions",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133677_english_hls_b470d2065940576ta-di_h264/index.m3u8",
+    "match_id": 133677
   }
 ]
