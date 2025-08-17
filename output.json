@@ -6,12 +6,6 @@
     "match_id": 130837
   },
   {
-    "title": "London Spirit vs Birmingham Phoenix",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132239_5505_BPH_LNS_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755493269~acl=/*~id=55490470543364942175980098937165~hmac=30ceb8a3ca046a4f542cb7e43435f04aaf4f0d54ce1f8cba69cac401efa2fc7c",
-    "match_id": 132239
-  },
-  {
     "title": "CECC vs Tally Rangers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132164_english_hls_786aa68af627245ta-di_h264/index.m3u8",
@@ -70,11 +64,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133875_english_hls_91b25f01ca13147ta-di_h264/index.m3u8",
     "match_id": 133875
-  },
-  {
-    "title": "Athletic Club vs Sevilla",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Athletic-Club-VS-Sevilla_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130834_english_hls_b1d3a2f40490237ta-di_h264/index.m3u8",
-    "match_id": 130834
   }
 ]
