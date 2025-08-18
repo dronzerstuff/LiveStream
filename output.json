@@ -1,27 +1,9 @@
 [
   {
-    "title": "Southern Brave Women vs Oval Invincibles Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132274_5506_SOB-W_OVI-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755568727~acl=/*~id=77649836478500882298213583577013~hmac=c3d095b55d7fad94f6f8eb4e0a81964c5c303104328ae39336c25b676fde104b",
-    "match_id": 132274
-  },
-  {
-    "title": "North Delhi Strikers vs New Delhi Tigers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132489_5521_NDT_NDS_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132489_english_hls_42043fa43d89890ta-di_h264/index.m3u8",
-    "match_id": 132489
-  },
-  {
     "title": "Hubli Tigers vs Gulbarga Mystics",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132800_5530_GMY_HT_fc-Web_1755374792917.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132800_english_hls_f800c43c5869380ta-di_h264/index.m3u8",
     "match_id": 132800
-  },
-  {
-    "title": "Royals of Rayalaseema vs Amaravathi Royals",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132778_5529_ROR_AMR_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132778_english_hls_a7c5fe8ec495811ta-di_h264/index.m3u8",
-    "match_id": 132778
   },
   {
     "title": "IAS Invincibles vs Renaissance Challengers",
@@ -34,5 +16,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132165_english_hls_1104c4001373927ta-di_h264/index.m3u8",
     "match_id": 132165
+  },
+  {
+    "title": "Sporting de Gijón vs Córdoba",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133475_5572_SG_CDB_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133475_english_hls_50b77e49a562963ta-di_h264/index.m3u8",
+    "match_id": 133475
+  },
+  {
+    "title": "North Delhi Strikers vs New Delhi Tigers",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132489_5521_NDT_NDS_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132489_english_hls_42043fa43d89890ta-di_h264/index.m3u8",
+    "match_id": 132489
   }
 ]
