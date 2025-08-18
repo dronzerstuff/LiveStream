@@ -12,12 +12,6 @@
     "match_id": 132777
   },
   {
-    "title": "East Delhi Riders Women vs Central Delhi Queens",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132972_5536_EDR-W_CDQ_fc_web_1755513540592.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132972_english_hls_e08bbfb14160054ta-di_h264/index.m3u8",
-    "match_id": 132972
-  },
-  {
     "title": "Pakistan Shaheens vs Melbourne Renegades Academy",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133513_5574_MRA_PKS_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133513_english_hls_d96bef8bde78737ta-di_h264/index.m3u8",
@@ -30,15 +24,21 @@
     "match_id": 134128
   },
   {
-    "title": "Tirupati Raiders vs Vizag Commandos",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133718_5591_TR_VC_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133718_english_hls_af101e63b653047ta-di_h264/index.m3u8",
-    "match_id": 133718
+    "title": "Yalla Shabab Giants vs Majees Titans",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133678_5590_YSG_MAT_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133678_english_hls_d7fe5beb7322070ta-di_h264/index.m3u8",
+    "match_id": 133678
   },
   {
-    "title": "THCC Rot-Gelb Hamburg vs 1.Kieler HTC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134127_english_hls_ed3cf1386285683ta-di_h264/index.m3u8",
-    "match_id": 134127
+    "title": "Day 14",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132448_english_hls_78556cb71c24587ta-di_h264/index.m3u8",
+    "match_id": 132448
+  },
+  {
+    "title": "East Delhi Riders Women vs Central Delhi Queens",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132972_5536_EDR-W_CDQ_fc_web_1755513540592.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132972_english_hls_e08bbfb14160054ta-di_h264/index.m3u8",
+    "match_id": 132972
   }
 ]
