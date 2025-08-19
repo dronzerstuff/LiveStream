@@ -1,15 +1,15 @@
 [
   {
-    "title": "East Delhi Riders vs Purani Delhi 6",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132490_5521_EDR_PD_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132490_english_hls_76536bf78731544ta-di_h264/index.m3u8",
-    "match_id": 132490
-  },
-  {
     "title": "Hubli Tigers vs Mangaluru Dragons",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132802_5530_MD_HT_fc-Web_1755374793036.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132802_english_hls_7e0c58161f43636ta-di_h264/index.m3u8",
     "match_id": 132802
+  },
+  {
+    "title": "Manchester Originals vs Trent Rockets",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132241_5505_TRT_MNR_fc-web.jpg",
+    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755667918~acl=/*~id=86650795183901463249471609597554~hmac=fa0c7bfe6532db995f0b12bf79741f2e511e0aa8cf4a2e1c07d4b0503b62e0ad",
+    "match_id": 132241
   },
   {
     "title": "Yalla Shabab Giants vs Muscat Thunders",
@@ -22,5 +22,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132167_english_hls_af94e8c8d065289ta-di_h264/index.m3u8",
     "match_id": 132167
+  },
+  {
+    "title": "East Delhi Riders vs Purani Delhi 6",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132490_5521_EDR_PD_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132490_english_hls_76536bf78731544ta-di_h264/index.m3u8",
+    "match_id": 132490
   }
 ]
