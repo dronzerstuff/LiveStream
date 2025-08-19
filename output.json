@@ -1,11 +1,5 @@
 [
   {
-    "title": "Nepal vs Hobart Hurricanes Academy",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133516_5574_NEP_HHA_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133516_english_hls_751a67e5c299310ta-di_h264/index.m3u8",
-    "match_id": 133516
-  },
-  {
     "title": "Masroor Sports Club vs 1.Kieler HTC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134131_english_hls_19e58f9ba312558ta-di_h264/index.m3u8",
@@ -22,11 +16,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132973_5536_SDS-W_EDR-W_fc_web_1755513540628.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132973_english_hls_e69e41657012490ta-di_h264/index.m3u8",
     "match_id": 132973
-  },
-  {
-    "title": "Krishna Defenders vs Vizag Commandos",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133722_5591_KD_VC_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133722_english_hls_a81c06f5e494232ta-di_h264/index.m3u8",
-    "match_id": 133722
   }
 ]
