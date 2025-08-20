@@ -12,12 +12,6 @@
     "match_id": 132276
   },
   {
-    "title": "Pakistan Shaheens vs Adelaide Strikers Academy",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
-    "match_id": 133520
-  },
-  {
     "title": "SG Findorff vs SC Europa",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
@@ -28,23 +22,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
     "match_id": 133701
-  },
-  {
-    "title": "North Delhi Strikers Women vs Central Delhi Queens",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132974_5536_NDS-W_CDQ_fc_web_1755513540602.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132974_english_hls_d626ec9f4043997ta-di_h264/index.m3u8",
-    "match_id": 132974
-  },
-  {
-    "title": "Netherlands Women vs Italy Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133747_5592_ND-W_ITA-W_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133747_english_hls_ee03aed31b17458ta-di_h264/index.m3u8",
-    "match_id": 133747
-  },
-  {
-    "title": "Sanfrecce Hiroshima vs Vissel Kobe",
-    "image": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8",
-    "match_id": 132098
   }
 ]
