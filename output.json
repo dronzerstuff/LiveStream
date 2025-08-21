@@ -6,16 +6,22 @@
     "match_id": 133235
   },
   {
-    "title": "Australian Capital Territory vs Adelaide Strikers Academy",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133522_5574_ACT_ASA_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133522_english_hls_b844e5000794084ta-di_h264/index.m3u8",
-    "match_id": 133522
-  },
-  {
     "title": "Northern Territory Strike vs Chicago Kingsmen",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133523_5574_NTS_CHK_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133523_english_hls_d3262e910a69284ta-di_h264/index.m3u8",
     "match_id": 133523
+  },
+  {
+    "title": "Czechia vs Romania",
+    "image": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
+    "match_id": 134939
+  },
+  {
+    "title": "Amaravati Crushers vs Kurnool Knights",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133729_english_hls_7c4f508def95862ta-di_h264/index.m3u8",
+    "match_id": 133729
   },
   {
     "title": "Semi-Final",
