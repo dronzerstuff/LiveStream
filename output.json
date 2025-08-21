@@ -1,15 +1,15 @@
 [
   {
-    "title": "Adani Trivandrum Royals vs Kochi Blue Tigers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133877_5600_TR_KBT_fc-Web_1755771731160.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133877_english_hls_466f8413a065142ta-di_h264/index.m3u8",
-    "match_id": 133877
-  },
-  {
     "title": "West Delhi Lions vs Central Delhi Kings",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132492_5521_CDK_WDL_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132492_english_hls_a0d00b140826738ta-di_h264/index.m3u8",
     "match_id": 132492
+  },
+  {
+    "title": "Trent Rockets vs Oval Invincibles",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1755840762~acl=/*~id=79291587851157992633234775677214~hmac=30f23c58ba810470fe4135f545c1504bbbc6382c62168285bb8a838187061a44",
+    "match_id": 132244
   },
   {
     "title": "Kuwait vs Qatar",
@@ -70,11 +70,5 @@
     "image": "https://images.fancode.com/aig/match/v1/132875_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132875_english_hls_cc9a6ae6bc44466ta-di_h264/index.m3u8",
     "match_id": 132875
-  },
-  {
-    "title": "Shivamogga Lions vs Bengaluru Blasters",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8",
-    "match_id": 132806
   }
 ]
