@@ -12,12 +12,6 @@
     "match_id": 132492
   },
   {
-    "title": "Shivamogga Lions vs Bengaluru Blasters",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8",
-    "match_id": 132806
-  },
-  {
     "title": "Kuwait vs Qatar",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
@@ -78,9 +72,9 @@
     "match_id": 132875
   },
   {
-    "title": "Berlin CC vs HTB Cricket",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134145_english_hls_8e09bcdd3a69318ta-di_h264/index.m3u8",
-    "match_id": 134145
+    "title": "Shivamogga Lions vs Bengaluru Blasters",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8",
+    "match_id": 132806
   }
 ]
