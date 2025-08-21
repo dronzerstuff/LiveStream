@@ -1,11 +1,5 @@
 [
   {
-    "title": "Oval Invincibles Women vs Trent Rockets Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132278_5506_OVI-W_TRT-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755827953~acl=/*~id=33180636002991832851910812261813~hmac=5de05cfa8666ea294ae354b9285492d020fa36355d8c4f968a9186ee63ba81ab",
-    "match_id": 132278
-  },
-  {
     "title": "Adani Trivandrum Royals vs Kochi Blue Tigers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133877_5600_TR_KBT_fc-Web_1755771731160.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133877_english_hls_466f8413a065142ta-di_h264/index.m3u8",
@@ -30,12 +24,6 @@
     "match_id": 133785
   },
   {
-    "title": "Germany Women vs Italy Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
-    "match_id": 133750
-  },
-  {
     "title": "Berlin CC vs HTB Cricket",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134145_english_hls_8e09bcdd3a69318ta-di_h264/index.m3u8",
@@ -46,6 +34,12 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133683_5590_MUT_IAI_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133683_english_hls_2853cf4c9798788ta-di_h264/index.m3u8",
     "match_id": 133683
+  },
+  {
+    "title": "Khan Zalmi Kings vs Bihar CC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132171_english_hls_4df4fa5f7216214ta-di_h264/index.m3u8",
+    "match_id": 132171
   },
   {
     "title": "Day 1",
@@ -76,5 +70,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134073_english_hls_14f8dbab2a85359ta-di_h264/index.m3u8",
     "match_id": 134073
+  },
+  {
+    "title": "Germany Women vs Italy Women",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+    "match_id": 133750
   }
 ]
