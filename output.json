@@ -24,22 +24,10 @@
     "match_id": 132806
   },
   {
-    "title": "Kenya vs Jersey",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133786_4464_KEN_JER_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133786_english_hls_bdbfc66a8c79980ta-di_h264/index.m3u8",
-    "match_id": 133786
-  },
-  {
     "title": "Kuwait vs Qatar",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
     "match_id": 133785
-  },
-  {
-    "title": "Renaissance Challengers vs Majees Titans",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133682_5590_MAT_RNC_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133682_english_hls_a3f960d1e352678ta-di_h264/index.m3u8",
-    "match_id": 133682
   },
   {
     "title": "Tungabhadra Warriors vs Amaravathi Royals",
@@ -48,16 +36,22 @@
     "match_id": 132782
   },
   {
-    "title": "SG Findorff vs VFB Fallersleben",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134144_english_hls_a815047fb252097ta-di_h264/index.m3u8",
-    "match_id": 134144
-  },
-  {
     "title": "Germany Women vs Italy Women",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
     "match_id": 133750
+  },
+  {
+    "title": "Berlin CC vs HTB Cricket",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134145_english_hls_8e09bcdd3a69318ta-di_h264/index.m3u8",
+    "match_id": 134145
+  },
+  {
+    "title": "IAS Invincibles vs Muscat Thunders",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133683_5590_MUT_IAI_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133683_english_hls_2853cf4c9798788ta-di_h264/index.m3u8",
+    "match_id": 133683
   },
   {
     "title": "Day 1",
@@ -72,9 +66,15 @@
     "match_id": 132451
   },
   {
-    "title": "Romania vs Czechia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
-    "match_id": 134940
+    "title": "Main Feed - Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134071_english_hls_41ca61304195136ta-di_h264/index.m3u8",
+    "match_id": 134071
+  },
+  {
+    "title": "Featured Holes - Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134072_english_hls_1138c127c898954ta-di_h264/index.m3u8",
+    "match_id": 134072
   }
 ]
