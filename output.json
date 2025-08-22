@@ -1,20 +1,14 @@
 [
   {
+    "title": "Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/119160_english_hls_5b8568520774776ta-di_h264/index.m3u8",
+    "match_id": 119160
+  },
+  {
     "title": "Yalla Shabab Giants vs Renaissance Challengers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
     "match_id": 133684
-  },
-  {
-    "title": "Vizag Commandos vs Bhimavaram Guardians",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133734_english_hls_ab058eafd816127ta-di_h264/index.m3u8",
-    "match_id": 133734
-  },
-  {
-    "title": "Hungary GP",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/119160_english_hls_5b8568520774776ta-di_h264/index.m3u8",
-    "match_id": 119160
   }
 ]
