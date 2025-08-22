@@ -1,11 +1,5 @@
 [
   {
-    "title": "Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/119160_english_hls_5b8568520774776ta-di_h264/index.m3u8",
-    "match_id": 119160
-  },
-  {
     "title": "Aries Kollam Sailors vs Adani Trivandrum Royals",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
@@ -34,12 +28,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
     "match_id": 133787
-  },
-  {
-    "title": "Muscat Thunders vs Majees Titans",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8",
-    "match_id": 133685
   },
   {
     "title": "Bhimavaram Bulls vs Tungabhadra Warriors",
@@ -82,5 +70,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134079_english_hls_54f5a4bc4581655ta-di_h264/index.m3u8",
     "match_id": 134079
+  },
+  {
+    "title": "Muscat Thunders vs Majees Titans",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8",
+    "match_id": 133685
   }
 ]
