@@ -6,22 +6,10 @@
     "match_id": 133879
   },
   {
-    "title": "Outer Delhi Warriors vs New Delhi Tigers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132493_5521_NDT_ODW_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132493_english_hls_c06606672c80456ta-di_h264/index.m3u8",
-    "match_id": 132493
-  },
-  {
     "title": "Mangaluru Dragons vs Shivamogga Lions",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132808_5530_SS_MD_fc-Web_1755374792933.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132808_english_hls_4103e4ee2518339ta-di_h264/index.m3u8",
     "match_id": 132808
-  },
-  {
-    "title": "Welsh Fire Women vs Birmingham Phoenix Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132279_5506_BPH-W_WEF-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755914435~acl=/*~id=85973906746885017338010933678538~hmac=61257da6ffe02bc7a789a149cbdc41434b1ae727866bf7d3c0bc3f2574fff27b",
-    "match_id": 132279
   },
   {
     "title": "Denmark vs Papua New Guinea",
@@ -78,9 +66,9 @@
     "match_id": 133807
   },
   {
-    "title": "Bhimavaram Bulls vs Tungabhadra Warriors",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132783_english_hls_c5f88fe2d128463ta-di_h264/index.m3u8",
-    "match_id": 132783
+    "title": "Outer Delhi Warriors vs New Delhi Tigers",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132493_5521_NDT_ODW_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132493_english_hls_c06606672c80456ta-di_h264/index.m3u8",
+    "match_id": 132493
   }
 ]
