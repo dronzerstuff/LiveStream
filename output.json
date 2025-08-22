@@ -24,12 +24,6 @@
     "match_id": 134076
   },
   {
-    "title": "Featured Holes - Day 2",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134077_english_hls_b9cc6bf5cb17132ta-di_h264/index.m3u8",
-    "match_id": 134077
-  },
-  {
     "title": "World Feed - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134080_english_hls_2ea744979020639ta-di_h264/index.m3u8",
@@ -46,17 +40,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Michigan_Old_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133807_english_hls_3493feb3da82099ta-di_h264/index.m3u8",
     "match_id": 133807
-  },
-  {
-    "title": "Mangaluru Dragons vs Shivamogga Lions",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132808_5530_SS_MD_fc-Web_1755374792933.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132808_english_hls_4103e4ee2518339ta-di_h264/index.m3u8",
-    "match_id": 132808
-  },
-  {
-    "title": "Denmark vs Papua New Guinea",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
-    "match_id": 133787
   }
 ]
