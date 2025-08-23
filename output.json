@@ -12,12 +12,6 @@
     "match_id": 133881
   },
   {
-    "title": "Bengaluru Blasters vs Gulbarga Mystics",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8",
-    "match_id": 132810
-  },
-  {
     "title": "London Spirit vs Southern Brave",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756011753~acl=/*~id=19365123790319802203408696048138~hmac=8072009473d03148186fdd1e3c724d79bb4d89d3a13001d188f6271a36080f8f",
@@ -70,6 +64,12 @@
     "image": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132878_english_hls_f6154094a572936ta-di_h264/index.m3u8",
     "match_id": 132878
+  },
+  {
+    "title": "Bengaluru Blasters vs Gulbarga Mystics",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8",
+    "match_id": 132810
   },
   {
     "title": "Amaravathi Royals vs Tungabhadra Warriors",
