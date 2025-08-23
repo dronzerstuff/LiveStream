@@ -6,12 +6,6 @@
     "match_id": 130847
   },
   {
-    "title": "London Spirit vs Southern Brave",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756011753~acl=/*~id=19365123790319802203408696048138~hmac=8072009473d03148186fdd1e3c724d79bb4d89d3a13001d188f6271a36080f8f",
-    "match_id": 135840
-  },
-  {
     "title": "NCM Investment vs CECC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132174_english_hls_e7db028c6547496ta-di_h264/index.m3u8",
@@ -48,16 +42,16 @@
     "match_id": 134085
   },
   {
-    "title": "New York Yankees vs Boston Red Sox",
-    "image": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132878_english_hls_f6154094a572936ta-di_h264/index.m3u8",
-    "match_id": 132878
-  },
-  {
     "title": "Featured Group - Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134083_english_hls_ec74eeb04576913ta-di_h264/index.m3u8",
     "match_id": 134083
+  },
+  {
+    "title": "Miami Marlins vs Toronto Blue Jays",
+    "image": "https://images.fancode.com/aig/match/v1/132879_CASACARDS_APP.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
+    "match_id": 132879
   },
   {
     "title": "Atlético de Madrid vs Elche",
