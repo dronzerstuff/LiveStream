@@ -6,12 +6,6 @@
     "match_id": 119163
   },
   {
-    "title": "North Delhi Strikers vs East Delhi Riders",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132494_english_hls_73ea8946cf7698ta-di_h264/index.m3u8",
-    "match_id": 132494
-  },
-  {
     "title": "Kochi Blue Tigers vs Alleppey Ripples",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133880_english_hls_7bdeaa46307601ta-di_h264/index.m3u8",
@@ -60,12 +54,6 @@
     "match_id": 132086
   },
   {
-    "title": "Krishna Defenders vs Kurnool Knights",
-    "image": "https://images.fancode.com/aig/match/v1/133739_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133739_english_hls_dc1292e7af40543ta-di_h264/index.m3u8",
-    "match_id": 133739
-  },
-  {
     "title": "Yokohama F. Marinos vs Machida Zelvia",
     "image": "https://images.fancode.com/aig/match/v1/132085_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132085_english_hls_15a99ae8465310ta-di_h264/index.m3u8",
@@ -76,5 +64,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8",
     "match_id": 133911
+  },
+  {
+    "title": "Race 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134994_english_hls_0c5665c25b23707ta-di_h264/index.m3u8",
+    "match_id": 134994
   }
 ]
