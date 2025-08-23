@@ -18,12 +18,6 @@
     "match_id": 132809
   },
   {
-    "title": "Oval Invincibles Women vs Northern Superchargers Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132280_5506_NOS-W_OVI-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755986786~acl=/*~id=53608636415179215603493590201181~hmac=9a1fe6c853f7381c76f06df325dc7b9a569040b7c83ca25f357c4e5d08dd5669",
-    "match_id": 132280
-  },
-  {
     "title": "Kuwait vs Jersey",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8",
@@ -36,16 +30,16 @@
     "match_id": 133688
   },
   {
+    "title": "Amaravathi Royals vs Tungabhadra Warriors",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8",
+    "match_id": 132784
+  },
+  {
     "title": "Charlton Athletic vs Leicester City",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8",
     "match_id": 131995
-  },
-  {
-    "title": "Yokohama F. Marinos vs Machida Zelvia",
-    "image": "https://images.fancode.com/aig/match/v1/132085_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132085_english_hls_15a99ae8465310ta-di_h264/index.m3u8",
-    "match_id": 132085
   },
   {
     "title": "Tirupati Raiders vs Vizianagaram Ninjas",
