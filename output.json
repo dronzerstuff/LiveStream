@@ -12,22 +12,10 @@
     "match_id": 133881
   },
   {
-    "title": "Northern Superchargers vs Oval Invincibles",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132246_5505_NOS_OVI_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756001385~acl=/*~id=50606752287474811628271852927352~hmac=22d5544320bb61a3c220602dfcfbabf75a9da7c70c0f51970f88e8969486e629",
-    "match_id": 135839
-  },
-  {
     "title": "Bengaluru Blasters vs Gulbarga Mystics",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8",
     "match_id": 132810
-  },
-  {
-    "title": "London Spirit Women vs Southern Brave Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132281_5506_LNS-W_SOB-W_Fc-Web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756001385~acl=/*~id=50606752287474811628271852927352~hmac=22d5544320bb61a3c220602dfcfbabf75a9da7c70c0f51970f88e8969486e629",
-    "match_id": 132281
   },
   {
     "title": "Kuwait vs Jersey",
@@ -54,10 +42,10 @@
     "match_id": 133689
   },
   {
-    "title": "Day 3",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8",
-    "match_id": 133911
+    "title": "Khan Zalmi Kings vs Tally Rangers",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132173_english_hls_cabe9c7ba270047ta-di_h264/index.m3u8",
+    "match_id": 132173
   },
   {
     "title": "Semifinals",
@@ -78,9 +66,9 @@
     "match_id": 134082
   },
   {
-    "title": "Norwich City vs Middlesbrough",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
-    "match_id": 131997
+    "title": "Featured Holes - Day 3",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/134081_english_hls_eab5dae1a990994ta-di_h264/index.m3u8",
+    "match_id": 134081
   }
 ]
