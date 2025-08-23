@@ -42,12 +42,6 @@
     "match_id": 133788
   },
   {
-    "title": "IAS Invincibles vs Renaissance Challengers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133688_5590_RNC_IAI_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133688_english_hls_4daecfe50489632ta-di_h264/index.m3u8",
-    "match_id": 133688
-  },
-  {
     "title": "Amaravathi Royals vs Tungabhadra Warriors",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8",
@@ -64,6 +58,12 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
     "match_id": 131997
+  },
+  {
+    "title": "Royal Oman Stallions vs Majees Titans",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8",
+    "match_id": 133689
   },
   {
     "title": "Day 3",
