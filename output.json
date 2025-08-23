@@ -24,12 +24,6 @@
     "match_id": 135840
   },
   {
-    "title": "Kuwait vs Jersey",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8",
-    "match_id": 133788
-  },
-  {
     "title": "Royal Oman Stallions vs Majees Titans",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8",
@@ -76,6 +70,12 @@
     "image": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132878_english_hls_f6154094a572936ta-di_h264/index.m3u8",
     "match_id": 132878
+  },
+  {
+    "title": "Kuwait vs Jersey",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8",
+    "match_id": 133788
   },
   {
     "title": "Amaravathi Royals vs Tungabhadra Warriors",
