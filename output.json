@@ -12,12 +12,6 @@
     "match_id": 133883
   },
   {
-    "title": "Welsh Fire vs Trent Rockets",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132248_5505_WEF_TRT_fc-web.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756085117~acl=/*~id=47529176256267804959045410611387~hmac=caf895ae4f45985317decd4f31b80d60807b4d8d5a050c943c1cc0d6c13d36e6",
-    "match_id": 135841
-  },
-  {
     "title": "Mysore Warriors vs Shivamogga Lions",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
@@ -48,16 +42,16 @@
     "match_id": 132977
   },
   {
-    "title": "Italy Women vs Netherlands Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133754_5592_ITA-W_ND-W_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
-    "match_id": 133754
-  },
-  {
     "title": "Renaissance Challengers vs Majees Titans",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
     "match_id": 133691
+  },
+  {
+    "title": "ACE KRM Panthers vs SBS CC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132175_english_hls_e7a4f2cdb883823ta-di_h264/index.m3u8",
+    "match_id": 132175
   },
   {
     "title": "Deportivo de La Coruña vs Burgos",
