@@ -24,16 +24,10 @@
     "match_id": 132811
   },
   {
-    "title": "Perth Scorchers Academy vs Adelaide Strikers Academy",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133533_english_hls_b06b42aff446814ta-di_h264/index.m3u8",
-    "match_id": 133533
-  },
-  {
-    "title": "Valley vs Northern Suburbs",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134891_english_hls_cbc425112294910ta-di_h264/index.m3u8",
-    "match_id": 134891
+    "title": "Trent Rockets Women vs Welsh Fire Women",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
+    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756072748~acl=/*~id=72952718297905632040723603417391~hmac=349c0835c9ffd65f40e0fd24203defb8364a8495bdebc485046297d6a7c71fbf",
+    "match_id": 132282
   },
   {
     "title": "Ireland Women vs Germany Women",
@@ -58,5 +52,11 @@
     "image": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_h264/index.m3u8",
     "match_id": 132084
+  },
+  {
+    "title": "Vizianagaram Ninjas vs Amaravati Crushers",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8",
+    "match_id": 133743
   }
 ]
