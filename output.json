@@ -36,12 +36,6 @@
     "match_id": 132249
   },
   {
-    "title": "Kenya vs Qatar",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133789_4464_QAT_KEN_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133789_english_hls_0baed9d7d116516ta-di_h264/index.m3u8",
-    "match_id": 133789
-  },
-  {
     "title": "South Delhi Superstarz Women vs Central Delhi Queens",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/132975_5536_CDQ_SDS-W_fc_web_1755513540591.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132977_english_hls_d6759e4c6243814ta-di_h264/index.m3u8",
@@ -106,11 +100,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Michigan_Old_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133809_english_hls_93886de1dc47356ta-di_h264/index.m3u8",
     "match_id": 133809
-  },
-  {
-    "title": "Osasuna vs Valencia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8",
-    "match_id": 130844
   }
 ]
