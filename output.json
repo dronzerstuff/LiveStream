@@ -24,15 +24,15 @@
     "match_id": 133791
   },
   {
-    "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/135798_english_hls_c12dbdcc8a21020ta-di_h264/index.m3u8",
-    "match_id": 135798
-  },
-  {
     "title": "IAS Invincibles vs Muscat Thunders",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133693_english_hls_278623fc0391528ta-di_h264/index.m3u8",
     "match_id": 133693
+  },
+  {
+    "title": "Gulf Giants Development vs Dubai Capitals Development",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/135799_5636_GGD_DCD_fc-web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/135799_english_hls_06cc33772a55821ta-di_h264/index.m3u8",
+    "match_id": 135799
   }
 ]
