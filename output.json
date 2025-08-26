@@ -1,11 +1,5 @@
 [
   {
-    "title": "South Delhi Superstarz vs North Delhi Strikers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132499_5521_SDS_NDS_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132499_english_hls_88c798fdb573632ta-di_h264/index.m3u8",
-    "match_id": 132499
-  },
-  {
     "title": "Kochi Blue Tigers vs Thrissur Titans",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133886_5600_TT_KBT_fc-Web_1755771731130.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133886_english_hls_f6d164cba265370ta-di_h264/index.m3u8",
@@ -22,11 +16,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/133694_5590_IAI_YSG_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/133694_english_hls_cc1a6b253635869ta-di_h264/index.m3u8",
     "match_id": 133694
-  },
-  {
-    "title": "Germany Women vs Italy Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133755_5592_GER-W_ITA-W_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133755_english_hls_5543f2af0287853ta-di_h264/index.m3u8",
-    "match_id": 133755
   }
 ]
