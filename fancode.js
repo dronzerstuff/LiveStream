@@ -12,7 +12,6 @@ async function callApisInParallel() {
       fetch(SECONDARY)
         .then((res) => res.json())
         .catch((error) => {
-          console.log("error:", error);
           return { matches: [] };
         }),
     ]);
