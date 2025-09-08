@@ -9,7 +9,12 @@ async function callApisInParallel() {
     // Call both APIs in parallel using Promise.allSettled
     const results = await Promise.allSettled([
       fetch(PRIMARY).then((res) => res.json()),
-      fetch(SECONDARY).then((res) => res.json()),
+      fetch(SECONDARY)
+        .then((res) => res.json())
+        .catch((error) => {
+          console.log("error:", error);
+          return { matches: [] };
+        }),
     ]);
 
     // Process results, only including fulfilled responses
@@ -24,7 +29,7 @@ async function callApisInParallel() {
     }
     const matches = [];
     const response1 = await successfulResults[0].matches;
-    const response2 = await successfulResults[1].matches
+    const response2 = await successfulResults[1].matches;
     response1?.forEach((match) => {
       if (match?.adfree_url && match.status === "LIVE") {
         matches.push({
