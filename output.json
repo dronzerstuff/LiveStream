@@ -1,0 +1,41 @@
+error: SyntaxError: Unexpected non-whitespace character after JSON at position 3
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:5738:19)
+    at successSteps (node:internal/deps/undici/undici:5719:27)
+    at fullyReadBody (node:internal/deps/undici/undici:4609:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async consumeBody (node:internal/deps/undici/undici:5728:7)
+    at async Promise.allSettled (index 1)
+    at async callApisInParallel (/home/runner/work/LiveStream/LiveStream/fancode.js:10:21)
+[
+  {
+    "title": "Malawi vs Liberia",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136684_3741_MAL_LIB_Fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136684_english_hls_4031f7c7a01906ta-di_h264/index.m3u8",
+    "match_id": 136684
+  },
+  {
+    "title": "Madagascar vs Chad",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136683_3741_MDG_CHA_Fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136683_english_hls_f5ed8d021b25869ta-di_h264/index.m3u8",
+    "match_id": 136683
+  },
+  {
+    "title": "Guinea-Bissau vs Djibouti",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
+    "match_id": 136681
+  },
+  {
+    "title": "Guinea vs Algeria",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136680_3741_GNA_ALG_Fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136680_english_hls_4a98d89bd145733ta-di_h264/index.m3u8",
+    "match_id": 136680
+  },
+  {
+    "title": "Uganda vs Somalia",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136686_3741_UGN_SOM_Fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136686_english_hls_08b2e710bc28885ta-di_h264/index.m3u8",
+    "match_id": 136686
+  }
+]
