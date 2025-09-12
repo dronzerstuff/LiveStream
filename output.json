@@ -18,18 +18,6 @@
     "match_id": 136715
   },
   {
-    "title": "Sevilla vs Elche",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/130869_5427_SEV_ELC_fc-Web_1757156106480.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130869_english_hls_117d63fc7052755adfreeta-di_h264/index.m3u8",
-    "match_id": 130869
-  },
-  {
-    "title": "Ipswich Town vs Sheffield United",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/132002_5489_IPT_SHF_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132002_english_hls_8ec1fd2dbf27194ta-di_h264/index.m3u8",
-    "match_id": 132002
-  },
-  {
     "title": "Featured Groups - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Procore-Championship-_2025_old_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136923_english_hls_863a59fc1333725ta-di_h264/index.m3u8",
@@ -42,9 +30,15 @@
     "match_id": 136891
   },
   {
-    "title": "England vs South Africa",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England-T20Is_old_v1.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI11FC/master_mdh.m3u8?hdnea=exp=1757741315~acl=/*~id=07769293752270300076566539956165~hmac=d0afe6ad45403a1a43df65c66a456f49c05afa4ab33308ea84646bf2d2edae48",
-    "match_id": 135992
+    "title": "Sevilla vs Elche",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/130869_5427_SEV_ELC_fc-Web_1757156106480.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/130869_english_hls_117d63fc7052755adfreeta-di_h264/index.m3u8",
+    "match_id": 130869
+  },
+  {
+    "title": "Ipswich Town vs Sheffield United",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/132002_5489_IPT_SHF_fc-web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/132002_english_hls_8ec1fd2dbf27194ta-di_h264/index.m3u8",
+    "match_id": 132002
   }
 ]
