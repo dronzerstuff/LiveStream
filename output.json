@@ -18,12 +18,6 @@
     "match_id": 132094
   },
   {
-    "title": "Majees Titans vs Renaissance Challengers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136780_english_hls_55f468a5b438690ta-di_h264/index.m3u8",
-    "match_id": 136780
-  },
-  {
     "title": "Fagiano Okayama vs Nagoya Grampus",
     "image": "https://images.fancode.com/aig/match/v1/132093_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/132093_english_hls_ba9bd7a82519453ta-di_h264/index.m3u8",
@@ -36,10 +30,10 @@
     "match_id": 132091
   },
   {
-    "title": "Siang Storm vs Kameng Kings",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136264_english_hls_73a756e67680415ta-di_h264/index.m3u8",
-    "match_id": 136264
+    "title": "IAS Invincibles vs Muscat Thunders",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136781_english_hls_aae9d023a767469ta-di_h264/index.m3u8",
+    "match_id": 136781
   },
   {
     "title": "NLS 7",
@@ -58,11 +52,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_-Austria-2025_old-match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136630_english_hls_6d2df85e1e67513ta-di_h264/index.m3u8",
     "match_id": 136630
-  },
-  {
-    "title": "IAS Invincibles vs Muscat Thunders",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136781_english_hls_aae9d023a767469ta-di_h264/index.m3u8",
-    "match_id": 136781
   }
 ]
