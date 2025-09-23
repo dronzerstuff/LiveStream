@@ -1,6 +1,6 @@
 [
   {
-    "title": "Pakistan vs Sri Lanka",
+    "title": "Sri Lanka vs Pakistan",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/10-PAKvsSRL_Old_match-card_v2.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8",
     "match_id": 136745
@@ -12,15 +12,9 @@
     "match_id": 137072
   },
   {
-    "title": "Tehri Queens Women vs Haridwar Storm Women",
+    "title": "Haridwar Storm Women vs Tehri Queens Women",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137019_english_hls_54df99daf096521ta-di_h264/index.m3u8",
     "match_id": 137019
-  },
-  {
-    "title": "Gamba Osaka vs Yokohama F. Marinos",
-    "image": "https://images.fancode.com/aig/match/v1/132101_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/132101_english_hls_737586e37d85259ta-di_h264/index.m3u8",
-    "match_id": 132101
   }
 ]
