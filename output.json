@@ -1,27 +1,9 @@
 [
   {
-    "title": "Huddersfield Town A.F.C. vs Manchester City",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/136842_5488_HUD_MCI_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136842_english_hls_361a7d47f211892ta-di_h264/index.m3u8",
-    "match_id": 136842
-  },
-  {
-    "title": "Tottenham Hotspur vs Doncaster Rovers F.C.",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/136844_5488_TOT_DRO_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136844_english_hls_cfec4abbd496183ta-di_h264/index.m3u8",
-    "match_id": 136844
-  },
-  {
     "title": "Port Vale F.C. vs Arsenal",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136845_english_hls_6f8214390738209ta-di_h264/index.m3u8",
     "match_id": 136845
-  },
-  {
-    "title": "Newcastle United vs Bradford City",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/136843_5488_NEW_BC_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136843_english_hls_e4b2c1515a4111ta-di_h264/index.m3u8",
-    "match_id": 136843
   },
   {
     "title": "Atletico de Madrid vs Rayo Vallecano",
@@ -36,9 +18,15 @@
     "match_id": 130880
   },
   {
-    "title": "Opening Ceremony",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/s3/14c89633-9436-4f61-9fbf-bd16373ee2db/index.m3u8",
-    "match_id": 136871
+    "title": "Newcastle United vs Bradford City",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136843_5488_NEW_BC_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136843_english_hls_e4b2c1515a4111ta-di_h264/index.m3u8",
+    "match_id": 136843
+  },
+  {
+    "title": "Huddersfield Town A.F.C. vs Manchester City",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/136842_5488_HUD_MCI_fc-Web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/136842_english_hls_361a7d47f211892ta-di_h264/index.m3u8",
+    "match_id": 136842
   }
 ]
