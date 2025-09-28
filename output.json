@@ -12,21 +12,15 @@
     "match_id": 130893
   },
   {
-    "title": "Sporting de Gijón vs Albacete",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/137105_5572_SG_ALB_fc-Web_1758878514342.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137105_english_hls_bc4a75ecbd28749ta-di_h264/index.m3u8",
-    "match_id": 137105
-  },
-  {
     "title": "Ryder Cup - Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card_1758857295140.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136874_english_hls_41a72501566543ta-di_h264/index.m3u8",
     "match_id": 136874
   },
   {
-    "title": "FC Barcelona vs Real Sociedad",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/130892_5427_BAR_RS_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130892_english_hls_2689ebe0e14133adfreeta-di_h264/index.m3u8",
-    "match_id": 130892
+    "title": "Seattle Mariners vs Los Angeles Dodgers",
+    "image": "https://images.fancode.com/aig/match/v1/137142_CASACARDS_APP.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137142_english_hls_08b8f8927548565ta-di_h264/index.m3u8",
+    "match_id": 137142
   }
 ]
