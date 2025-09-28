@@ -1,6 +1,6 @@
 [
   {
-    "title": "India vs Pakistan",
+    "title": "Pakistan vs India",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/INDvsPAK_AsiaCup_OldMatch_card.jpg",
     "link": "https://liveacc.fancode.com/136749_english_hls_f35067c8ca55201ta-di_h264/index.m3u8",
     "match_id": 136749
@@ -22,11 +22,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/130898_5427_ELC_CEV_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130898_english_hls_410183798247829adfreeta-di_h264/index.m3u8",
     "match_id": 130898
-  },
-  {
-    "title": "Rayo Vallecano vs Sevilla FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/130895_5427_RVL_SEV_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/130895_english_hls_c41296510a67237adfreeta-di_h264/index.m3u8",
-    "match_id": 130895
   }
 ]
