@@ -12,12 +12,6 @@
     "match_id": 119231
   },
   {
-    "title": "South Australia vs Victoria",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f55572ta-di_h264/index.m3u8",
-    "match_id": 134015
-  },
-  {
     "title": "New South Wales vs Western Australia",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb75870ta-di_h264/index.m3u8",
@@ -64,11 +58,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/119134_english_hls_bc097454c680630adfreeta-di_h264/index.m3u8",
     "match_id": 119134
-  },
-  {
-    "title": "Qualifying 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/136635_english_hls_1e143bb01f63830ta-di_h264/index.m3u8",
-    "match_id": 136635
   }
 ]
