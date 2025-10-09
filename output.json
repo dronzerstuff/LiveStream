@@ -1,11 +1,5 @@
 [
   {
-    "title": "New South Wales vs Western Australia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/133936_5606_WAU_NSW_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/133936_english_hls_ad547d723317891ta-di_h264/index.m3u8",
-    "match_id": 133936
-  },
-  {
     "title": "Abu Dhabi vs Ajman",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/137483_5722_ABD_AJM_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137483_english_hls_29d08772bc10627ta-di_h264/index.m3u8",
@@ -22,17 +16,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136859_english_hls_ea300c15fa4096ta-di_h264/index.m3u8",
     "match_id": 136859
-  },
-  {
-    "title": "Kuwait vs Japan",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/137178_5697_KUW_JPN_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137178_english_hls_e4fa7706d792320ta-di_h264/index.m3u8",
-    "match_id": 137178
-  },
-  {
-    "title": "Singapore vs India",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137359_english_hls_637332208d74294ta-di_h264/index.m3u8",
-    "match_id": 137359
   }
 ]
