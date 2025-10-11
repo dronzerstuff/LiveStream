@@ -1,11 +1,5 @@
 [
   {
-    "title": "Vancouver Kings vs Mississauga Masters",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/137428_5719_VCK_MGM_fc-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137428_english_hls_3e322aa86c67719ta-di_h264/index.m3u8",
-    "match_id": 137428
-  },
-  {
     "title": "Brampton Blitz vs White Rock Warriors",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/137429_5719_BBZ_WRW_fc-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137429_english_hls_54a83cac1d17733ta-di_h264/index.m3u8",
@@ -18,12 +12,6 @@
     "match_id": 133959
   },
   {
-    "title": "Houston Generals CC vs Dallas Lonestars CC",
-    "image": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137306_english_hls_8171759cbe36072ta-di_h264/index.m3u8",
-    "match_id": 137306
-  },
-  {
     "title": "Detroit Tigers vs Seattle Mariners",
     "image": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137578_english_hls_6e6735030814613ta-di_h264/index.m3u8",
@@ -34,5 +22,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_04.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137621_english_hls_b783c91d1c56442ta-di_h264/index.m3u8",
     "match_id": 137621
+  },
+  {
+    "title": "Day 3",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/137313_english_hls_b062645a7074444ta-di_h264/index.m3u8",
+    "match_id": 137313
   }
 ]
