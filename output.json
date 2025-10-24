@@ -6,15 +6,9 @@
     "match_id": 134001
   },
   {
-    "title": "Day 1 - Featured Groups",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137315_english_hls_d88bf815f681988ta-di_h264/index.m3u8",
-    "match_id": 137315
-  },
-  {
-    "title": "Day 1 - World Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137316_english_hls_80e541398a6050ta-di_h264/index.m3u8",
-    "match_id": 137316
+    "title": "Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/119261_english_hls_b0866561b940685ta-di_h264/index.m3u8",
+    "match_id": 119261
   }
 ]
