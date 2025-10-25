@@ -16,5 +16,11 @@
     "image": "https://images.fancode.com/aig/match/v1/137611_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137611_english_hls_4676ec988f80885ta-di_h264/index.m3u8",
     "match_id": 137611
+  },
+  {
+    "title": "Practice 3",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
+    "link": "https://dre63cd2n1um1.cloudfront.net/out/v1/e03795af48254d2a8cca485124998039/index.m3u8",
+    "match_id": 118478
   }
 ]
