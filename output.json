@@ -1,5 +1,11 @@
 [
   {
+    "title": "Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/119280_english_hls_eb1458a17583042_1ta-di_h264/index.m3u8",
+    "match_id": 119280
+  },
+  {
     "title": "Afghanistan vs Kuwait",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/07_Kuwait-vs-Afghanistan.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137844_english_hls_cfb7d74c2e86147_1ta-di_h264/index.m3u8",
@@ -12,27 +18,9 @@
     "match_id": 138015
   },
   {
-    "title": "Kashiwa Reysol vs Nagoya Grampus",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137941_english_hls_f4014d762836025_1ta-di_h264/index.m3u8",
-    "match_id": 137941
-  },
-  {
-    "title": "Day 3",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137219_english_hls_2aa6a53ec694618_1ta-di_h264/index.m3u8",
-    "match_id": 137219
-  },
-  {
     "title": "Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8",
     "match_id": 137165
-  },
-  {
-    "title": "Portugal GP",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/119280_english_hls_eb1458a17583042_1ta-di_h264/index.m3u8",
-    "match_id": 119280
   }
 ]
