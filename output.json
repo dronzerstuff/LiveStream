@@ -1,26 +1,20 @@
 [
   {
+    "title": "Sudurpaschim Royals vs Kathmandu Gorkhas",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8",
+    "match_id": 138296
+  },
+  {
     "title": "Bangladesh vs Ireland",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c90019_1ta-di_h264/index.m3u8",
     "match_id": 138238
   },
   {
-    "title": "West Indies vs New Zealand",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763585148~acl=/*~id=22828516963776451581638365653246~hmac=49118d0d78ba3bc904d9e714e5c576c39a5a6c72add945276f56cef60f5ff6ee",
-    "match_id": 137694
-  },
-  {
     "title": "Afghanistan A vs Hong Kong, China",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/138252_5765_AF-A_HK_fc-web_1763068128432.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763586985~acl=/*~id=93236291781331326409952213506621~hmac=1d400d32f052bb7ea9996ab2e69745feccb416b4d1a66a2dd64e11a3279056f7",
     "match_id": 138252
-  },
-  {
-    "title": "Stallion Laguna vs Lion City Sailors",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/137958_5744_SL_LIO_fc-web_1763103330940.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/137958_english_hls_6e0575adc449777_1ta-di_h264/index.m3u8",
-    "match_id": 137958
   }
 ]
