@@ -1,11 +1,5 @@
 [
   {
-    "title": "England Under-19 vs West Indies Under-19",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8",
-    "match_id": 138041
-  },
-  {
     "title": "Atletico de Madrid vs Real Oviedo",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/130968_5427_ATL_RO_Web_1763971793807.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/130968_english_hls_a38b696af539905_1ta-di_h264/index.m3u8",
@@ -24,9 +18,9 @@
     "match_id": 138071
   },
   {
-    "title": "Qualifying",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
-    "link": "https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8",
-    "match_id": 118494
+    "title": "England Under-19 vs West Indies Under-19",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8",
+    "match_id": 138041
   }
 ]
