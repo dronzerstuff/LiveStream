@@ -22,5 +22,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138675_english_hls_bbaab4695792995_1ta-di_h264/index.m3u8",
     "match_id": 138675
+  },
+  {
+    "title": "Race",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
+    "link": "https://de8b7342suh9u.cloudfront.net/out/v1/9cc25569a4144c088b891c592fbc5112/index.m3u8",
+    "match_id": 118500
   }
 ]
