@@ -12,6 +12,12 @@
     "match_id": 139144
   },
   {
+    "title": "Ivory Coast vs Mozambique",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/138346_5774_IVC_MOZ_fc-web_1766386874729.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/138346_english_hls_cd76dbdef086874_1ta-di_h264/index.m3u8",
+    "match_id": 138346
+  },
+  {
     "title": "Al-Nassr FC vs AL Zawraa SC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/136138_5648_ANF_ALZ_FC-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136138_english_hls_30dc12587a12429_1ta-di_h264/index.m3u8",
@@ -46,11 +52,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/136101_5648_AWL_ALW_FC-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/136101_english_hls_ae20b1d1b144233_1ta-di_h264/index.m3u8",
     "match_id": 136101
-  },
-  {
-    "title": "Algeria vs Sudan",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/138344_5774_ALG_SUD_fc-web_1766386874035.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/138344_english_hls_b3086ed67a65788_1ta-di_h264/index.m3u8",
-    "match_id": 138344
   }
 ]
