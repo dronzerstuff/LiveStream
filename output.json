@@ -1,5 +1,11 @@
 [
   {
+    "title": "Featured Group - Day 4",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139782_english_hls_24f0544f5d97918_1ta-di_h264/index.m3u8",
+    "match_id": 139782
+  },
+  {
     "title": "Senegal vs Morocco",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Morocco_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/138394_english_hls_be4201c9ee18463_1ta-di_h264/index.m3u8",
@@ -10,17 +16,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131024_5427_RS_BAR_fc-Web.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8",
     "match_id": 131024
-  },
-  {
-    "title": "Córdoba vs Málaga",
-    "image": "https://images.fancode.com/aig/match/v1/139789_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139789_english_hls_faa3dd8e8637960_1ta-di_h264/index.m3u8",
-    "match_id": 139789
-  },
-  {
-    "title": "Featured Group - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139782_english_hls_24f0544f5d97918_1ta-di_h264/index.m3u8",
-    "match_id": 139782
   }
 ]
