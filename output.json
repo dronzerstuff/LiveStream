@@ -24,12 +24,6 @@
     "match_id": 131041
   },
   {
-    "title": "Cultural Leonesa vs Deportivo La Coruna",
-    "image": "https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140010_english_hls_d31568c46179077_1ta-di_h264/index.m3u8",
-    "match_id": 140010
-  },
-  {
     "title": "Day 4 - Centre Court",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8",
@@ -64,11 +58,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8",
     "match_id": 140030
-  },
-  {
-    "title": "Levante vs Atletico de Madrid",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8",
-    "match_id": 131040
   }
 ]
