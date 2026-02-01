@@ -6,6 +6,12 @@
     "match_id": 139293
   },
   {
+    "title": "Delhi Warriors vs Gurugram Thunders",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/140085_5928_DW_GT_FC-Web_1769806995490.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140085_english_hls_84f5247a6991137_1ta-di_h264/index.m3u8",
+    "match_id": 140085
+  },
+  {
     "title": "West Ham United Women vs Tottenham Hotspur Women",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/140092_5826_WHU-W_TOT-W_FC-Web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140092_english_hls_1ed64c692144275_1ta-di_h264/index.m3u8",
@@ -36,18 +42,6 @@
     "match_id": 131044
   },
   {
-    "title": "Day 2 - Table 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140310_english_hls_3ee3474aad8037_1ta-di_h264/index.m3u8",
-    "match_id": 140310
-  },
-  {
-    "title": "Day 2 - Table 3",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-di_h264/index.m3u8",
-    "match_id": 140332
-  },
-  {
     "title": "Day 5 - Centre Court",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140169_english_hls_6545b6aa6a5824_1ta-di_h264/index.m3u8",
@@ -58,11 +52,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/139904_english_hls_a9958dde5c92325_1ta-di_h264/index.m3u8",
     "match_id": 139904
-  },
-  {
-    "title": "Saudi Arabia vs Malaysia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139903_english_hls_1bf09555e719079_1ta-di_h264/index.m3u8",
-    "match_id": 139903
   }
 ]
