@@ -6,12 +6,6 @@
     "match_id": 139619
   },
   {
-    "title": "Indonesia vs Japan",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139910_english_hls_d72c9ca5e890131_1ta-di_h264/index.m3u8",
-    "match_id": 139910
-  },
-  {
     "title": "Day 4",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140183_english_hls_9d28952dd478958_1ta-di_h264/index.m3u8",
@@ -22,5 +16,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140392_english_hls_243402493641753_1ta-di_h264/index.m3u8",
     "match_id": 140392
+  },
+  {
+    "title": "Featured Holes - Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140394_english_hls_cce5ebe3cb99061_1ta-di_h264/index.m3u8",
+    "match_id": 140394
+  },
+  {
+    "title": "Featured Groups - Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140393_english_hls_7229ecdb4a90969_1ta-di_h264/index.m3u8",
+    "match_id": 140393
   }
 ]
