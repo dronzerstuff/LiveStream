@@ -18,22 +18,16 @@
     "match_id": 131053
   },
   {
-    "title": "Rangers vs Queen's Park",
-    "image": "https://images.fancode.com/aig/match/v1770559004497/140294_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140294_english_hls_2031b781538611_1ta-di_h264/index.m3u8",
-    "match_id": 140294
-  },
-  {
     "title": "Cádiz vs Almería",
     "image": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140429_english_hls_e32406962614544_1ta-di_h264/index.m3u8",
     "match_id": 140429
   },
   {
-    "title": "Finals",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8",
-    "match_id": 140186
+    "title": "BCPL Auction",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140529_english_hls_5bfd8cd4eb49701_1ta-di_h264/index.m3u8",
+    "match_id": 140529
   },
   {
     "title": "Main Feed - Day 4",
