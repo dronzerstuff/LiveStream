@@ -6,22 +6,16 @@
     "match_id": 140102
   },
   {
-    "title": "Sevilla FC vs Girona FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8",
-    "match_id": 131053
-  },
-  {
     "title": "Athletic Club vs Levante",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8",
     "match_id": 131057
   },
   {
-    "title": "Real Valladolid vs Castellón",
-    "image": "https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140430_english_hls_287845a7cf93054_1ta-di_h264/index.m3u8",
-    "match_id": 140430
+    "title": "Sevilla FC vs Girona FC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8",
+    "match_id": 131053
   },
   {
     "title": "Rangers vs Queen's Park",
@@ -40,11 +34,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8",
     "match_id": 140186
-  },
-  {
-    "title": "Deportivo Alaves vs Getafe CF",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
-    "match_id": 131056
   }
 ]
