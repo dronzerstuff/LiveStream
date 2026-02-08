@@ -40,5 +40,11 @@
     "image": "https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140430_english_hls_287845a7cf93054_1ta-di_h264/index.m3u8",
     "match_id": 140430
+  },
+  {
+    "title": "Finals",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8",
+    "match_id": 140186
   }
 ]
