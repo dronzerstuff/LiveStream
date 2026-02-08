@@ -6,22 +6,10 @@
     "match_id": 131057
   },
   {
-    "title": "Sevilla FC vs Girona FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8",
-    "match_id": 131053
-  },
-  {
-    "title": "Cádiz vs Almería",
-    "image": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140429_english_hls_e32406962614544_1ta-di_h264/index.m3u8",
-    "match_id": 140429
-  },
-  {
-    "title": "BCPL Auction",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140529_english_hls_5bfd8cd4eb49701_1ta-di_h264/index.m3u8",
-    "match_id": 140529
+    "title": "Atletico de Madrid vs Real Betis",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8",
+    "match_id": 131058
   },
   {
     "title": "Main Feed - Day 4",
@@ -48,9 +36,9 @@
     "match_id": 140403
   },
   {
-    "title": "Atletico de Madrid vs Real Betis",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131058_english_hls_d354bdbb394851_1ta-di_h264/index.m3u8",
-    "match_id": 131058
+    "title": "Sevilla FC vs Girona FC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8",
+    "match_id": 131053
   }
 ]
