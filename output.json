@@ -6,18 +6,6 @@
     "match_id": 133943
   },
   {
-    "title": "Cancha Guillermo Vilas",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140201_english_hls_fbb36ff56921479_1ta-di_h264/index.m3u8",
-    "match_id": 140201
-  },
-  {
-    "title": "Grandstand",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140530_english_hls_23b89ec9cf5138_1ta-di_h264/index.m3u8",
-    "match_id": 140530
-  },
-  {
     "title": "World Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140187_english_hls_4bf2a27eb512185_1ta-di_h264/index.m3u8",
@@ -28,11 +16,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140531_english_hls_0ec584619423979_1ta-di_h264/index.m3u8",
     "match_id": 140531
-  },
-  {
-    "title": "The Bay vs Los Angeles",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139170_english_hls_b083c3d58f92363_1ta-di_h264/index.m3u8",
-    "match_id": 139170
   }
 ]
