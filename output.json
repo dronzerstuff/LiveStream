@@ -12,12 +12,6 @@
     "match_id": 140199
   },
   {
-    "title": "World Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140550_english_hls_08bcf354dd75469_1ta-di_h264/index.m3u8",
-    "match_id": 140550
-  },
-  {
     "title": "Cancha Guillermo Vilas",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140206_english_hls_4b681536fe90781_1ta-di_h264/index.m3u8",
@@ -64,11 +58,5 @@
     "image": "  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8",
     "match_id": 140539
-  },
-  {
-    "title": "Sevilla FC vs Deportivo Alaves",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131069_5427_SEV_ALA_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131069_english_hls_3c3d17956850231_1ta-di_h264/index.m3u8",
-    "match_id": 131069
   }
 ]
