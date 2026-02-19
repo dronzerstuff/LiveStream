@@ -1,21 +1,9 @@
 [
   {
-    "title": "Gamba Osaka vs Pohang Steelers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140067_5648_OSK_PHG_FC-Web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140067_english_hls_1c470dc6e696554_1ta-di_h264/index.m3u8",
-    "match_id": 140067
-  },
-  {
     "title": "Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
     "link": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139562_english_624300/ad-h264/index.m3u8",
     "match_id": 139562
-  },
-  {
-    "title": "Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140602_english_hls_1be721d13f60446_1ta-di_h264/index.m3u8",
-    "match_id": 140602
   },
   {
     "title": "World Feed",
