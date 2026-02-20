@@ -1,11 +1,5 @@
 [
   {
-    "title": "Athletic Club vs Elche CF",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131075_english_hls_ca435ba20460198_1ta-di_h264/index.m3u8",
-    "match_id": 131075
-  },
-  {
     "title": "Featured Groups - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140571_english_hls_8df7ce99ba86559_1ta-di_h264/index.m3u8",
@@ -54,9 +48,9 @@
     "match_id": 140069
   },
   {
-    "title": "Blackburn Rovers F.C. vs Preston North End F.C.",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140122_english_hls_acfa12043f61996_1ta-di_h264/index.m3u8",
-    "match_id": 140122
+    "title": "Athletic Club vs Elche CF",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131075_english_hls_ca435ba20460198_1ta-di_h264/index.m3u8",
+    "match_id": 131075
   }
 ]
