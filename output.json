@@ -12,12 +12,6 @@
     "match_id": 140683
   },
   {
-    "title": "FC Barcelona vs Levante",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131077_5427_BAR_LE_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131077_english_hls_1eca0ec00b71143_1ta-di_h264/index.m3u8",
-    "match_id": 131077
-  },
-  {
     "title": "RC Celta vs RCD Mallorca",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131079_english_hls_fba55e4f0513954_1ta-di_h264/index.m3u8",
@@ -36,12 +30,6 @@
     "match_id": 140762
   },
   {
-    "title": "ATP 500 - Rio Open Presented by Claro 2026",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140904_english_hls_8b1b76b79122813_1ta-di_h264/index.m3u8",
-    "match_id": 140904
-  },
-  {
     "title": "Main Feed - Day 4",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140575_english_hls_e22cb13b7b73079_1ta-di_h264/index.m3u8",
@@ -58,5 +46,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140576_english_hls_037beb412a84381_1ta-di_h264/index.m3u8",
     "match_id": 140576
+  },
+  {
+    "title": "FC Barcelona vs Levante",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131077_5427_BAR_LE_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131077_english_hls_1eca0ec00b71143_1ta-di_h264/index.m3u8",
+    "match_id": 131077
   }
 ]
