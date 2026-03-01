@@ -1,32 +1,8 @@
 [
   {
-    "title": "Featured Groups - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140781_english_hls_a231eb42595351_1ta-di_h264/index.m3u8",
-    "match_id": 140781
-  },
-  {
-    "title": "Main Feed - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140779_english_hls_a1d77d46e43033_1ta-di_h264/index.m3u8",
-    "match_id": 140779
-  },
-  {
-    "title": "World Feed - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140778_english_hls_78a6fea50d59701_1ta-di_h264/index.m3u8",
-    "match_id": 140778
-  },
-  {
     "title": "Court Jaime Fillol",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/index.m3u8",
     "match_id": 140363
-  },
-  {
-    "title": "Girona FC vs RC Celta",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131081_5427_GIR_CEV_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131081_english_hls_4586f3954e82752_1ta-di_h264/index.m3u8",
-    "match_id": 131081
   }
 ]
