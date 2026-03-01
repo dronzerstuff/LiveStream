@@ -12,6 +12,12 @@
     "match_id": 131086
   },
   {
+    "title": "Mumbai City FC vs NorthEast United FC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/140451_5956_MCFC_NEUFC_fc-web_1772229182804.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140451_english_hls_dd1e27ec0836523_1ta-di_h264/index.m3u8",
+    "match_id": 140451
+  },
+  {
     "title": "Real Sociedad vs Deportivo La Coruna",
     "image": "https://images.fancode.com/aig/match/v1772160982911/140824_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140824_english_hls_63a18503a8455_1ta-di_h264/index.m3u8",
@@ -40,17 +46,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140780_english_hls_1a4d1e64e556602_1ta-di_h264/index.m3u8",
     "match_id": 140780
-  },
-  {
-    "title": "Odisha FC vs Chennaiyin FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140450_english_hls_9f644f544799278_1ta-di_h264/index.m3u8",
-    "match_id": 140450
-  },
-  {
-    "title": "Odisha FC vs Chennaiyin FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web-(1).jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h264/index.m3u8",
-    "match_id": 141089
   }
 ]
