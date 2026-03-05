@@ -6,33 +6,9 @@
     "match_id": 140884
   },
   {
-    "title": "Victoria vs Tasmania",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134039_english_hls_218ba2772e41715_1ta-di_h264/index.m3u8",
-    "match_id": 134039
-  },
-  {
-    "title": "New South Wales vs South Australia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134040_english_hls_2b4391587444375_1ta-di_h264/index.m3u8",
-    "match_id": 134040
-  },
-  {
     "title": "Western Australia vs Queensland",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3670906_1ta-di_h264/index.m3u8",
     "match_id": 134038
-  },
-  {
-    "title": "A Court Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141005_english_hls_feaf78b80227098_1ta-di_h264/index.m3u8",
-    "match_id": 141005
-  },
-  {
-    "title": "World Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8",
-    "match_id": 141004
   }
 ]
