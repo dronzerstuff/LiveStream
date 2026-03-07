@@ -30,22 +30,10 @@
     "match_id": 141012
   },
   {
-    "title": "A Court Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141011_english_hls_80cf9edfe229848_1ta-di_h264/index.m3u8",
-    "match_id": 141011
-  },
-  {
     "title": "World Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141010_english_hls_590a93f1f543161_1ta-di_h264/index.m3u8",
     "match_id": 141010
-  },
-  {
-    "title": "F Court Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141237_english_hls_be15ad626a83685_1ta-di_h264/index.m3u8",
-    "match_id": 141237
   },
   {
     "title": "D Court Feed",
@@ -60,9 +48,9 @@
     "match_id": 140785
   },
   {
-    "title": "Practice 3",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139363_english_hls_dd9dd8cfe523685_1ta-di_h264/index.m3u8",
-    "match_id": 139363
+    "title": "Sprint Race",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/139544_english_hls_42b5cbf82233814_1ta-di_h264/index.m3u8",
+    "match_id": 139544
   }
 ]
