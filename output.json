@@ -6,24 +6,6 @@
     "match_id": 141407
   },
   {
-    "title": "NCC Odisha vs Nexage Hyderabad",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141267_english_hls_4a4650040065593_1ta-di_h264/index.m3u8",
-    "match_id": 141267
-  },
-  {
-    "title": "Gujarat Tigers vs Bengal Royals",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141195_english_hls_6f3dfc540571747_1ta-di_h264/index.m3u8",
-    "match_id": 141195
-  },
-  {
-    "title": "Australia Women vs DPR Korea Women",
-    "image": "https://images.fancode.com/aig/match/v1773379970336/140812_CASACARDS_APP.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140812_english_hls_b2199af4ff86953_1ta-di_h264/index.m3u8",
-    "match_id": 140812
-  },
-  {
     "title": "Main Feed - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141140_english_hls_50bdf9501b67602_1ta-di_h264/index.m3u8",
@@ -34,5 +16,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/index.m3u8",
     "match_id": 141142
+  },
+  {
+    "title": "Featured Groups - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/141141_english_hls_98f3195a7311900_1ta-di_h264/index.m3u8",
+    "match_id": 141141
   }
 ]
