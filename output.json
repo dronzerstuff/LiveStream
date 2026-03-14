@@ -12,12 +12,6 @@
     "match_id": 140713
   },
   {
-    "title": "Coventry City F.C. vs Southampton F.C.",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140952_english_hls_0e86e7ee0781499_1ta-di_h264/index.m3u8",
-    "match_id": 140952
-  },
-  {
     "title": "Girona FC vs Athletic Club",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131109_5427_GIR_ATH_FC-Web.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/131109_english_hls_ea1716cd6e71536_1ta-di_h264/index.m3u8",
@@ -34,6 +28,18 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/141177_5973_BFC_MBSG_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141177_bengali_hls_32071a8e3c92196_1ta-di_h264/index.m3u8",
     "match_id": 141177
+  },
+  {
+    "title": "Leicester City F.C. vs Queens Park Rangers F.C.",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/140953_5489_LEI_QPR_fc-web.jpg",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/140953_english_hls_b7b8bba21e59998_1ta-di_h264/index.m3u8",
+    "match_id": 140953
+  },
+  {
+    "title": "Atletico de Madrid vs Getafe CF",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131105_5427_ATL_GEF_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131105_english_hls_e7be9609d824136_1ta-di_h264/index.m3u8",
+    "match_id": 131105
   },
   {
     "title": "Main Feed - Day 3",
