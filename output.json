@@ -18,12 +18,6 @@
     "match_id": 140715
   },
   {
-    "title": "RCD Mallorca vs RCD Espanyol",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131101_english_hls_5ec1aac60a82106_1ta-di_h264/index.m3u8",
-    "match_id": 131101
-  },
-  {
     "title": "Inter Kashi FC vs Mumbai City FC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140464_english_hls_facb766be656513_1ta-di_h264/index.m3u8",
@@ -58,11 +52,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/index.m3u8",
     "match_id": 141149
-  },
-  {
-    "title": "Europe - Day 2",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141354_english_hls_73796579aa11873_1ta-di_h264/index.m3u8",
-    "match_id": 141354
   }
 ]
