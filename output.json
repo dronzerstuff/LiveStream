@@ -6,34 +6,10 @@
     "match_id": 140716
   },
   {
-    "title": "Real Sociedad vs CA Osasuna",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131104_english_hls_733d12806760145_1ta-di_h264/index.m3u8",
-    "match_id": 131104
-  },
-  {
     "title": "Sporting de Gijón vs Castellón",
     "image": "https://images.fancode.com/aig/match/v1773431102732/141219_CASACARDS_APP.png",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141219_english_hls_ba2e6e605758076_1ta-di_h264/index.m3u8",
     "match_id": 141219
-  },
-  {
-    "title": "Main Feed - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141148_english_hls_9940de1f0d70792_1ta-di_h264/index.m3u8",
-    "match_id": 141148
-  },
-  {
-    "title": "Featured Holes - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141150_english_hls_1da6e708136467_1ta-di_h264/index.m3u8",
-    "match_id": 141150
-  },
-  {
-    "title": "Featured Groups - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141149_english_hls_f00ff0b1e358700_1ta-di_h264/index.m3u8",
-    "match_id": 141149
   },
   {
     "title": "World Feed - Day 4",
@@ -46,5 +22,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Jannik-Sinner_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141033_english_hls_4946d14fc960773_1ta-di_h264/index.m3u8",
     "match_id": 141033
+  },
+  {
+    "title": "Real Sociedad vs CA Osasuna",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png",
+    "link": "https://in-mc-fdlive.fancode.com/mumbai/131104_english_hls_733d12806760145_1ta-di_h264/index.m3u8",
+    "match_id": 131104
   }
 ]
