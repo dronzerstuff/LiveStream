@@ -1,11 +1,5 @@
 [
   {
-    "title": "Race",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/index.m3u8",
-    "match_id": 139379
-  },
-  {
     "title": "New Zealand vs South Africa",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21SAVSZM/master.m3u8?hdnea=exp=1773597194~acl=/*~id=75406515878611438446388843521157~hmac=913df20f93f4e06ba69a071924bf081561cfdc11211c183af3c214b371be679f",
@@ -16,12 +10,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/141408_english_hls_916665824985616_1ta-di_h264/index.m3u8",
     "match_id": 141408
-  },
-  {
-    "title": "Hong Kong Cricket Club vs Pakistan Association Cricket Club",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/index.m3u8",
-    "match_id": 140620
   },
   {
     "title": "ACT Meteors vs Western Australia Women",
@@ -52,18 +40,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/index.m3u8",
     "match_id": 140915
-  },
-  {
-    "title": "Tasmania vs Queensland",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/134043_english_hls_ad224acef214446_1ta-di_h264/index.m3u8",
-    "match_id": 134043
-  },
-  {
-    "title": "Race",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/141419_english_hls_55101a7bb450585_1ta-di_h264/index.m3u8",
-    "match_id": 141419
   },
   {
     "title": "ISGL Mumbai City Qualifiers",
