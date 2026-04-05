@@ -6,18 +6,6 @@
     "match_id": 141795
   },
   {
-    "title": "Marquee Feed - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141794_english_hls_9f007a9f8e58619_1ta-di_h264/index.m3u8",
-    "match_id": 141794
-  },
-  {
-    "title": "Main Feed - Day 4",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141792_english_hls_9ab7621ca396730_1ta-di_h264/index.m3u8",
-    "match_id": 141792
-  },
-  {
     "title": "World Feed - Day 4",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141796_english_hls_cc7b77cfaf46848_1ta-di_h264/index.m3u8",
@@ -34,11 +22,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141639_english_hls_4f99a5f19e43597_1ta-di_h264/index.m3u8",
     "match_id": 141639
-  },
-  {
-    "title": "Deportivo Alaves vs CA Osasuna",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131123_5427_ALA_OSN_FC-Web.png",
-    "link": "https://dai-partner.fancode.com/primary/131123_english_hls_d08e9900cb27379_1ta-di_h264/index.m3u8",
-    "match_id": 131123
   }
 ]
