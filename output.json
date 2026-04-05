@@ -1,11 +1,5 @@
 [
   {
-    "title": "Getafe CF vs Athletic Club",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
-    "link": "https://dai-partner.fancode.com/primary/131129_english_hls_453c2e696e73018_1ta-di_h264/index.m3u8",
-    "match_id": 131129
-  },
-  {
     "title": "Mumbai City FC vs Odisha FC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/140477_5956_MCFC_ODS_FC-Web_1772460547341.jpg",
     "link": "https://dai-partner.fancode.com/primary/140477_english_hls_f5ce548c6563544_1ta-di_h264/index.m3u8",
@@ -46,12 +40,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141658_english_hls_9f801c270499763_1ta-di_h264/index.m3u8",
     "match_id": 141658
-  },
-  {
-    "title": "Tiriac Open - Day 7",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141296_english_hls_ec360adb3444611_1ta-di_h264/index.m3u8",
-    "match_id": 141296
   },
   {
     "title": "World Feed",
