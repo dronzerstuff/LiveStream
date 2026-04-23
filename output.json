@@ -1,17 +1,5 @@
 [
   {
-    "title": "Kerala Blasters FC vs Odisha FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140494_5956_KBFC_ODS_FC-Web_1772466373449.jpg",
-    "link": "https://dai-partner.fancode.com/primary/140494_english_hls_b11189f45c77931_1ta-di_h264/index.m3u8",
-    "match_id": 140494
-  },
-  {
-    "title": "Kerala Blasters FC vs Odisha FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/KBF-vs-OF_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141820_english_hls_be8d18833261188_1ta-di_h264/index.m3u8",
-    "match_id": 141820
-  },
-  {
     "title": "Day 2 - Main Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/index.m3u8",
@@ -28,12 +16,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/index.m3u8",
     "match_id": 142206
-  },
-  {
-    "title": "Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141642_english_hls_9520bdfd2398458_1ta-di_h264/index.m3u8",
-    "match_id": 141642
   },
   {
     "title": "Featured Groups - Day 1",
@@ -58,5 +40,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142011_english_hls_86c1366bd373508_1ta-di_h264/index.m3u8",
     "match_id": 142011
+  },
+  {
+    "title": "Kerala Blasters FC vs Odisha FC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/140494_5956_KBFC_ODS_FC-Web_1772466373449.jpg",
+    "link": "https://dai-partner.fancode.com/primary/140494_english_hls_b11189f45c77931_1ta-di_h264/index.m3u8",
+    "match_id": 140494
+  },
+  {
+    "title": "Kerala Blasters FC vs Odisha FC",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/KBF-vs-OF_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/141820_english_hls_be8d18833261188_1ta-di_h264/index.m3u8",
+    "match_id": 141820
   }
 ]
