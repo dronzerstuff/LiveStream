@@ -1,17 +1,5 @@
 [
   {
-    "title": "USA Women vs Italy Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142055_6045_ITA-W_USA-W_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142055_english_hls_9e7799545155335_1ta-di_h264/index.m3u8",
-    "match_id": 142055
-  },
-  {
-    "title": "NorthEast United FC vs FC Goa",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140495_5956_NEUFC_FCG_FC-Web_1772466446452.jpg",
-    "link": "https://dai-partner.fancode.com/primary/140495_english_hls_7b586a026836663_1ta-di_h264/index.m3u8",
-    "match_id": 140495
-  },
-  {
     "title": "Spain GP",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/139936_english_hls_eaec628eef82203_1ta-di_h264/index.m3u8",
@@ -46,5 +34,29 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142275_english_hls_e92051011639651_1ta-di_h264/index.m3u8",
     "match_id": 142275
+  },
+  {
+    "title": "Featured Groups - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142008_english_hls_dbba8c548213601_1ta-di_h264/index.m3u8",
+    "match_id": 142008
+  },
+  {
+    "title": "Marquee Group - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142004_english_hls_a79b193b1387616_1ta-di_h264/index.m3u8",
+    "match_id": 142004
+  },
+  {
+    "title": "Main Feed - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142000_english_hls_0e0f09b5e680114_1ta-di_h264/index.m3u8",
+    "match_id": 142000
+  },
+  {
+    "title": "Featured Holes - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142012_english_hls_7caad948d970455_1ta-di_h264/index.m3u8",
+    "match_id": 142012
   }
 ]
