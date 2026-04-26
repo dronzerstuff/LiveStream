@@ -24,22 +24,10 @@
     "match_id": 131148
   },
   {
-    "title": "Huesca vs Real Zaragoza",
-    "image": "https://images.fancode.com/aig/match/v1776063278957/142040_CASACARDS_APP.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142040_english_hls_9138960ce722416_1ta-di_h264/index.m3u8",
-    "match_id": 142040
-  },
-  {
     "title": "Day 5 - Main Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141861_english_hls_691c8893df98857_1ta-di_h264/index.m3u8",
     "match_id": 141861
-  },
-  {
-    "title": "Day 5 - Court 6",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142283_english_hls_e7356ac85232265_1ta-di_h264/index.m3u8",
-    "match_id": 142283
   },
   {
     "title": "Day 5 - Manolo Santana Stadium",
@@ -76,11 +64,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141998_english_hls_c177d39f2d15531_1ta-di_h264/index.m3u8",
     "match_id": 141998
-  },
-  {
-    "title": "CA Osasuna vs Sevilla FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131144_5427_OSN_SEV_FC-Web.png",
-    "link": "https://dai-partner.fancode.com/primary/131144_english_hls_dd4a9feb9623525_1ta-di_h264/index.m3u8",
-    "match_id": 131144
   }
 ]
