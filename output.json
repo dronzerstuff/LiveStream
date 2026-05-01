@@ -6,12 +6,6 @@
     "match_id": 142342
   },
   {
-    "title": "Jamshedpur FC vs FC Goa",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/140502_5956_JFC_FCG_FC-Web_1772467740735.jpg",
-    "link": "https://dai-partner.fancode.com/primary/140502_english_hls_81a94ec99e73093_1ta-di_h264/index.m3u8",
-    "match_id": 140502
-  },
-  {
     "title": "Main Feed - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142023_english_hls_06e7dd682b13411_1ta-di_h264/index.m3u8",
@@ -30,9 +24,9 @@
     "match_id": 142024
   },
   {
-    "title": "SF: J. Sinner vs A. Fils",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Arthur-Fils_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141870_english_hls_15b56ce9d374480_1ta-di_h264/index.m3u8",
-    "match_id": 141870
+    "title": "Practice 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
+    "link": "https://dai-partner.fancode.com/primary/139437_english_hls_241357cee548917_1ta-di_h264/index.m3u8",
+    "match_id": 139437
   }
 ]
