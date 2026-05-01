@@ -1,17 +1,5 @@
 [
   {
-    "title": "Girona FC vs RCD Mallorca",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131167_english_hls_193d0d10d34286_1ta-di_h264/index.m3u8",
-    "match_id": 131167
-  },
-  {
-    "title": "Real Zaragoza vs Granada",
-    "image": "https://images.fancode.com/aig/match/v1776595838848/142138_CASACARDS_APP.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142138_english_hls_623106632276638_1ta-di_h264/index.m3u8",
-    "match_id": 142138
-  },
-  {
     "title": "Main Feed - Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142023_english_hls_06e7dd682b13411_1ta-di_h264/index.m3u8",
@@ -34,11 +22,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142022_english_hls_3bb3acb4b03397_1ta-di_h264/index.m3u8",
     "match_id": 142022
-  },
-  {
-    "title": "Sprint Qualifying",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/139438_english_hls_d3432b24df59826_1ta-di_h264/index.m3u8",
-    "match_id": 139438
   }
 ]
