@@ -6,12 +6,6 @@
     "match_id": 142344
   },
   {
-    "title": "Lyon Women vs Arsenal Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/141965_english_hls_e1a726625956930_1ta-di_h264/index.m3u8",
-    "match_id": 141965
-  },
-  {
     "title": "Sporting Club Delhi vs Punjab FC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/140504_5956_SCD_PFC_FC-Web_1772964305712.jpg",
     "link": "https://in-mc-fdlive.fancode.com/mumbai/140504_english_hls_11913fb40518068_1ta-di_h264/index.m3u8",
@@ -48,15 +42,9 @@
     "match_id": 142028
   },
   {
-    "title": "Sprint Race",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/142085_english_hls_3fa34ed25645831_1ta-di_h264/index.m3u8",
-    "match_id": 142085
-  },
-  {
-    "title": "Villarreal CF vs Levante",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131160_5427_VIL_LE_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131160_english_hls_1bcea7474a69214_1ta-di_h264/index.m3u8",
-    "match_id": 131160
+    "title": "Lyon Women vs Arsenal Women",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Lyon_W-vs-Arsenal_W_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/141965_english_hls_e1a726625956930_1ta-di_h264/index.m3u8",
+    "match_id": 141965
   }
 ]
