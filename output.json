@@ -18,12 +18,6 @@
     "match_id": 141966
   },
   {
-    "title": "Racing Club vs Huesca",
-    "image": "https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142136_english_hls_f6a10ba2209190_1ta-di_h264/index.m3u8",
-    "match_id": 142136
-  },
-  {
     "title": "Main Feed - Day 4",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142031_english_hls_31aa6b657469484_1ta-di_h264/index.m3u8",
@@ -42,15 +36,15 @@
     "match_id": 142032
   },
   {
-    "title": "Feature Race",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/142086_english_hls_4444175dc811084_1ta-di_h264/index.m3u8",
-    "match_id": 142086
+    "title": "Finals: J. Sinner vs A. Zverev",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Alexander-Zverev_FC-Web.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/141875_english_hls_d6044950ad5380_1ta-di_h264/index.m3u8",
+    "match_id": 141875
   },
   {
-    "title": "RC Celta vs Elche CF",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/131164_english_hls_859a55142d21398_1ta-di_h264/index.m3u8",
-    "match_id": 131164
+    "title": "Race",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
+    "link": "https://in-mc-fblive.fancode.com/delhi/139441_english_hls_fbec0ced4447334_1ta-di_h264/index.m3u8",
+    "match_id": 139441
   }
 ]
