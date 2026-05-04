@@ -1,32 +1,20 @@
 [
   {
-    "title": "Malaysia vs Indonesia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142339_english_hls_e694b7195a50308_1ta-di_h264/index.m3u8",
-    "match_id": 142339
+    "title": "Boost Region vs Amo Region",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142407_english_hls_14dc80974e20263_1ta-di_h264/index.m3u8",
+    "match_id": 142407
   },
   {
-    "title": "North Kanto Lions vs West Kanto Hurricanes",
+    "title": "East Kanto Sunrisers vs Kansai Chargers",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142399_english_hls_738b0e34d943809_1ta-di_h264/index.m3u8",
-    "match_id": 142399
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142391_english_hls_df341b46b944012_1ta-di_h264/index.m3u8",
+    "match_id": 142391
   },
   {
-    "title": "South Kanto Super Kings vs East Kanto Sunrisers",
+    "title": "North Kanto Lions vs South Kanto Super Kings",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142398_english_hls_3f201fa2b336746_1ta-di_h264/index.m3u8",
-    "match_id": 142398
-  },
-  {
-    "title": "FC Goa Junior vs Corbett FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/142347_english_hls_7eb285b45096608_1ta-di_h264/index.m3u8",
-    "match_id": 142347
-  },
-  {
-    "title": "Reliance Foundation Young Champs vs Punjab FC",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png",
-    "link": "https://in-mc-fdlive.fancode.com/mumbai/142346_english_hls_82090fa6e529010_1ta-di_h264/index.m3u8",
-    "match_id": 142346
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142390_english_hls_a06c4a71e241897_1ta-di_h264/index.m3u8",
+    "match_id": 142390
   }
 ]
