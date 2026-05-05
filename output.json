@@ -1,26 +1,14 @@
 [
   {
-    "title": "Malaysia vs Indonesia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142340_english_hls_5bfacb8a0d22554_1ta-di_h264/index.m3u8",
-    "match_id": 142340
-  },
-  {
     "title": "Nepal vs Oman",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/141981_english_hls_a86811d32551135_1ta-di_h264/index.m3u8",
     "match_id": 141981
   },
   {
-    "title": "Amo Region vs Band-e-Amir Region",
+    "title": "Band-e-Amir Region vs Amo Region",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142409_english_hls_3b9dd4428f64790_1ta-di_h264/index.m3u8",
     "match_id": 142409
-  },
-  {
-    "title": "North Kanto Lions vs West Kanto Hurricanes",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142401_english_hls_379d440a9749876_1ta-di_h264/index.m3u8",
-    "match_id": 142401
   }
 ]
