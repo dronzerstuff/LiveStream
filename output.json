@@ -24,12 +24,6 @@
     "match_id": 142589
   },
   {
-    "title": "World Feed - Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142110_english_hls_454e8065df11453_1ta-di_h264/index.m3u8",
-    "match_id": 142110
-  },
-  {
     "title": "Main Feed - Day 1",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142092_english_hls_0e93307f1072109_1ta-di_h264/index.m3u8",
@@ -46,5 +40,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142093_english_hls_39a3137b2d79864_1ta-di_h264/index.m3u8",
     "match_id": 142093
+  },
+  {
+    "title": "Day 2 - Campo Centrale",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142590_english_hls_b4339452859097_1ta-di_h264/index.m3u8",
+    "match_id": 142590
   }
 ]
