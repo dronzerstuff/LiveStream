@@ -6,27 +6,45 @@
     "match_id": 142160
   },
   {
+    "title": "Amo Region vs Band-e-Amir Region",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142422_english_hls_0d18922e1c4075_1ta-di_h264/index.m3u8",
+    "match_id": 142422
+  },
+  {
     "title": "Scotland vs Nepal",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/index.m3u8",
     "match_id": 142289
   },
   {
-    "title": "Sri Lanka Women vs New Zealand A Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142509_english_hls_67043b0ada15515_1ta-di_h264/index.m3u8",
-    "match_id": 142509
-  },
-  {
-    "title": "Japan vs Indonesia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142313_english_hls_cee12ddad741068_1ta-di_h264/index.m3u8",
-    "match_id": 142313
-  },
-  {
-    "title": "Jungle Panthers vs River Ranger",
+    "title": "Jungle Panthers vs Lightning Lions",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142472_english_hls_3e0f4ab0ef60908_1ta-di_h264/index.m3u8",
-    "match_id": 142472
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142474_english_hls_7d4ab850fe5956_1ta-di_h264/index.m3u8",
+    "match_id": 142474
+  },
+  {
+    "title": "Bengaluru Football Club vs Punjab FC Junior",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+    "match_id": 142373
+  },
+  {
+    "title": "Day 7 - BNP Paribas Arena",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142231_english_hls_10cb4a2f2925142_1ta-di_h264/index.m3u8",
+    "match_id": 142231
+  },
+  {
+    "title": "Day 7 - Main Feed",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142232_english_hls_bae44b58f473247_1ta-di_h264/index.m3u8",
+    "match_id": 142232
+  },
+  {
+    "title": "Day 7 - Supertennis Arena",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142639_english_hls_5957cef7c620376_1ta-di_h264/index.m3u8",
+    "match_id": 142639
   }
 ]
