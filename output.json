@@ -1,17 +1,5 @@
 [
   {
-    "title": "Valencia CF vs Rayo Vallecano",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131187_5427_VAL_RVL_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131187_english_hls_fb8ce234f994144_1ta-di_h264/index.m3u8",
-    "match_id": 131187
-  },
-  {
-    "title": "Girona FC vs Real Sociedad",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131184_5427_GIR_RS_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131184_english_hls_b5bf2097da92440_1ta-di_h264/index.m3u8",
-    "match_id": 131184
-  },
-  {
     "title": "Real Madrid vs Real Oviedo",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131189_5427_RM_RO_FC-Web.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/131189_english_hls_b82592ce5085217_1ta-di_h264/index.m3u8",
@@ -22,12 +10,6 @@
     "image": "https://images.fancode.com/aig/match/v1778743493092/142492_CASACARDS_APP.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142492_english_hls_f47a12cfe273275_1ta-di_h264/index.m3u8",
     "match_id": 142492
-  },
-  {
-    "title": "QF: M. Landaluce vs D. Medvedev",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Martin-Landaluce-vs-Daniil-Medvedev_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142235_english_hls_d8ba79d48951186_1ta-di_h264/index.m3u8",
-    "match_id": 142235
   },
   {
     "title": "Day 1",
