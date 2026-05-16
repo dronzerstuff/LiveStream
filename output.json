@@ -12,18 +12,6 @@
     "match_id": 142427
   },
   {
-    "title": "West Ham United Women vs Manchester City Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142177_english_hls_d3a9e3746196409_1ta-di_h264/index.m3u8",
-    "match_id": 142177
-  },
-  {
-    "title": "Brighton and Hove Albion Women vs Tottenham Hotspur Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142182_5826_BHA-W_TOT-W_FC-Web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142182_english_hls_94770da34f1100_1ta-di_h264/index.m3u8",
-    "match_id": 142182
-  },
-  {
     "title": "Chelsea F.C. Women vs Manchester United Women",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/142181_5826_CHE-W_MUN-W_FC-Web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142181_english_hls_989b085e8010996_1ta-di_h264/index.m3u8",
@@ -36,39 +24,9 @@
     "match_id": 142180
   },
   {
-    "title": "Liverpool Women vs Arsenal Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142179_5826_LIV-W_ARS-W_FC-Web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142179_english_hls_3e9753904d26395_1ta-di_h264/index.m3u8",
-    "match_id": 142179
-  },
-  {
-    "title": "London City Lionesses vs Aston Villa Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142178_5826_LCL_AST-W_FC-Web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142178_english_hls_acf394a0cb49151_1ta-di_h264/index.m3u8",
-    "match_id": 142178
-  },
-  {
-    "title": "SF: Bolelli/Vavassori vs Harrison/Skupski",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142738_english_hls_4bac41947115573_1ta-di_h264/index.m3u8",
-    "match_id": 142738
-  },
-  {
-    "title": "Spielberg - Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142635_english_hls_25a27b7c8d8299_1ta-di_h264/index.m3u8",
-    "match_id": 142635
-  },
-  {
     "title": "Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142327_english_hls_ff1d493b1394682_1ta-di_h264/index.m3u8",
     "match_id": 142327
-  },
-  {
-    "title": "SF: J. Sinner vs D. Medvedev",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Daniil-Medvedev_fc-web_1778907587882.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142239_english_hls_03c417900b86056_1ta-di_h264/index.m3u8",
-    "match_id": 142239
   }
 ]
