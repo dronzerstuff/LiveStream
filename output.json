@@ -1,11 +1,5 @@
 [
   {
-    "title": "China PR vs Japan",
-    "image": "https://images.fancode.com/aig/match/v1779244278108/142554_CASACARDS_APP.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142554_english_hls_7cd85c873c21539_1ta-di_h264/index.m3u8",
-    "match_id": 142554
-  },
-  {
     "title": "Day 2 - Main Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/index.m3u8",
@@ -30,21 +24,9 @@
     "match_id": 142122
   },
   {
-    "title": "Day 6 - Men's SF's",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142949_english_hls_d47fd7059522290_1ta-di_h264/index.m3u8",
-    "match_id": 142949
-  },
-  {
-    "title": "Practice 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139442_english_hls_a4be7f387232380_1ta-di_h264/index.m3u8",
-    "match_id": 139442
-  },
-  {
-    "title": "Qualifying Session",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142088_english_hls_4596b2e4a227851_1ta-di_h264/index.m3u8",
-    "match_id": 142088
+    "title": "Day 2 - World Feed",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/index.m3u8",
+    "match_id": 142119
   }
 ]
