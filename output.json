@@ -1,11 +1,5 @@
 [
   {
-    "title": "Slovenia vs Malta",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142444_6076_MAL_SLO_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142444_english_hls_a9cb660ceb18798_1ta-di_h264/index.m3u8",
-    "match_id": 142444
-  },
-  {
     "title": "Croatia vs Cyprus",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/142443_6076_CYP_CRO_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142443_english_hls_332a1414be6043_1ta-di_h264/index.m3u8",
@@ -16,12 +10,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/index.m3u8",
     "match_id": 142120
-  },
-  {
-    "title": "Day 6 - Men's SF's",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142273_english_hls_6abc31298869252_1ta-di_h264/index.m3u8",
-    "match_id": 142273
   },
   {
     "title": "Day 2 - Featured Groups",
@@ -40,12 +28,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142122_english_hls_efc99e5eb166998_1ta-di_h264/index.m3u8",
     "match_id": 142122
-  },
-  {
-    "title": "Practice Session",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139685_english_hls_d09886ed8b2527_1ta-di_h264/index.m3u8",
-    "match_id": 139685
   },
   {
     "title": "Day 6 - Men's SF's",
