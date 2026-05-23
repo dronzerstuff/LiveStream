@@ -1,27 +1,15 @@
 [
   {
-    "title": "FC Bayern München vs VfB Stuttgart",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8",
-    "match_id": 142281
+    "title": "Day 3 - Featured Groups",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8",
+    "match_id": 142127
   },
   {
-    "title": "Girona FC vs Elche CF",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8",
-    "match_id": 131209
-  },
-  {
-    "title": "Valencia CF vs FC Barcelona",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131208_english_hls_692f8c66d920562_1ta-di_h264/index.m3u8",
-    "match_id": 131208
-  },
-  {
-    "title": "Real Madrid vs Athletic Club",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131206_english_hls_c29ebc2efa71906_1ta-di_h264/index.m3u8",
-    "match_id": 131206
+    "title": "Day 3 - World Feed",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8",
+    "match_id": 142124
   },
   {
     "title": "RCD Mallorca vs Real Oviedo",
@@ -36,63 +24,27 @@
     "match_id": 131204
   },
   {
-    "title": "RCD Espanyol vs Real Sociedad",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131203_english_hls_c9c311253648846_1ta-di_h264/index.m3u8",
-    "match_id": 131203
-  },
-  {
     "title": "RC Celta vs Sevilla FC",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/131202_english_hls_64268336ae74684_1ta-di_h264/index.m3u8",
     "match_id": 131202
   },
   {
+    "title": "Girona FC vs Elche CF",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/131209_english_hls_a48a46795b99313_1ta-di_h264/index.m3u8",
+    "match_id": 131209
+  },
+  {
+    "title": "Valencia CF vs FC Barcelona",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/131208_english_hls_692f8c66d920562_1ta-di_h264/index.m3u8",
+    "match_id": 131208
+  },
+  {
     "title": "Real Betis vs Levante",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/131201_english_hls_7687d6411728372_1ta-di_h264/index.m3u8",
     "match_id": 131201
-  },
-  {
-    "title": "Deportivo Alaves vs Rayo Vallecano",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/131200_english_hls_07ff4b38f091481_1ta-di_h264/index.m3u8",
-    "match_id": 131200
-  },
-  {
-    "title": "Day 3 - Main Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
-    "match_id": 142125
-  },
-  {
-    "title": "Day 3 - Featured Holes",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/index.m3u8",
-    "match_id": 142128
-  },
-  {
-    "title": "Day 3 - Featured Groups",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8",
-    "match_id": 142127
-  },
-  {
-    "title": "Day 3 - Marquee Group",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142126_english_hls_1e8622009643810_1ta-di_h264/index.m3u8",
-    "match_id": 142126
-  },
-  {
-    "title": "Day 3 - World Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8",
-    "match_id": 142124
-  },
-  {
-    "title": "Qualifying",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779185934255.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139445_english_hls_04b2710e0090667_1ta-di_h264/index.m3u8",
-    "match_id": 139445
   }
 ]
