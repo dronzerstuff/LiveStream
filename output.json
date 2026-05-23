@@ -12,12 +12,6 @@
     "match_id": 142447
   },
   {
-    "title": "Kenya vs Mali",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142909_english_hls_62f22403b154702_1ta-di_h264/index.m3u8",
-    "match_id": 142909
-  },
-  {
     "title": "Botswana vs Sierra Leone",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142908_english_hls_f69d60096714840_1ta-di_h264/index.m3u8",
@@ -28,12 +22,6 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/HUL_SOU_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8",
     "match_id": 142703
-  },
-  {
-    "title": "Charlton Athletic F.C vs Leicester City Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8",
-    "match_id": 142948
   },
   {
     "title": "Celtic vs Dunfermline",
@@ -60,15 +48,27 @@
     "match_id": 142532
   },
   {
-    "title": "Day 2 - Opening Race",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139686_english_hls_c935f298a159987_1ta-di_h264/index.m3u8",
-    "match_id": 139686
-  },
-  {
     "title": "Day 3 - Main Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8",
     "match_id": 142125
+  },
+  {
+    "title": "Day 3 - Featured Holes",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/index.m3u8",
+    "match_id": 142128
+  },
+  {
+    "title": "Day 3 - Featured Groups",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8",
+    "match_id": 142127
+  },
+  {
+    "title": "Day 3 - Marquee Group",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142126_english_hls_1e8622009643810_1ta-di_h264/index.m3u8",
+    "match_id": 142126
   }
 ]
