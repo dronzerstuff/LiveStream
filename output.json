@@ -1,23 +1,5 @@
 [
   {
-    "title": "Bangladesh Women vs Scotland Women",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8",
-    "match_id": 143003
-  },
-  {
-    "title": "India vs Zimbabwe",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8",
-    "match_id": 142668
-  },
-  {
-    "title": "Italy GP",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8",
-    "match_id": 139946
-  },
-  {
     "title": "Court Suzanne Lenglen",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780173878~acl=/*~id=08639228855578992354466780460016~hmac=0b27326638ec0182fd515d4daf69b2b19debee73d1e2d706d170a250bcaffe1b",
@@ -64,11 +46,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142898_english_hls_8f06bd52b125270_1ta-di_h264/index.m3u8",
     "match_id": 142898
-  },
-  {
-    "title": "Rwanda vs Botswana",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8",
-    "match_id": 142927
   }
 ]
