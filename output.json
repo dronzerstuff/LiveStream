@@ -1,11 +1,5 @@
 [
   {
-    "title": "Speen Ghar Region vs Boost Region",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142750_english_hls_4acbc9bcd087060_1ta-di_h264/index.m3u8",
-    "match_id": 142750
-  },
-  {
     "title": "Nepal Women vs Sri Lanka Women",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/142939_6089_NLW_SLW_FC-Web_1779706389448.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142939_english_hls_515086b19459441_1ta-di_h264/index.m3u8",
@@ -64,5 +58,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/142902_english_hls_5ffd0f041397101_1ta-di_h264/index.m3u8",
     "match_id": 142902
+  },
+  {
+    "title": "Day 4 - Featured Holes",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142904_english_hls_10c31eff7734104_1ta-di_h264/index.m3u8",
+    "match_id": 142904
   }
 ]
