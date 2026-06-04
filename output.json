@@ -1,29 +1,5 @@
 [
   {
-    "title": "Main Feed - Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8",
-    "match_id": 143106
-  },
-  {
-    "title": "Featured Groups - Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8",
-    "match_id": 143108
-  },
-  {
-    "title": "Marquee Feed - Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143107_english_hls_ddbf89aed084861_1ta-di_h264/index.m3u8",
-    "match_id": 143107
-  },
-  {
-    "title": "World Feed - Day 1",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/index.m3u8",
-    "match_id": 143046
-  },
-  {
     "title": "Day 1",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/index.m3u8",
