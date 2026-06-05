@@ -6,22 +6,10 @@
     "match_id": 142988
   },
   {
-    "title": "Gwalior Cheetahs vs Bhopal Leopards",
-    "image": "https://images.fancode.com/aig/match/v1780469022398/143061_CASACARDS_APP.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143061_english_hls_29b6b5ad0d69099_1ta-di_h264/index.m3u8",
-    "match_id": 143061
-  },
-  {
-    "title": "Hungary GP",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8",
-    "match_id": 139948
-  },
-  {
-    "title": "Court Simonne-Mathieu",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-    "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780696165~acl=/*~id=58394789473131942413957321183703~hmac=e4f5969fc8f327af66091fb0eea3442b6d7526e8dd57d718e6bc1b7c3e3ec54d",
-    "match_id": 142725
+    "title": "Ujjain Falcons vs Malwa Stallions",
+    "image": "https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8",
+    "match_id": 143062
   },
   {
     "title": "Main Feed - Day 2",
@@ -30,15 +18,27 @@
     "match_id": 143109
   },
   {
-    "title": "Mensik vs Zverev",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs.-Jakub-Mensik_FC-WEB.jpg",
+    "title": "Arnaldi vs Cobolli",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/RG_Flavio-Cobolli-vs.-Matteo-Arnaldi_FC-WEB.jpg",
     "link": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780705272~acl=/*~id=63766390787110851290883007677910~hmac=5e5b27e64cfd6c8da484e82f47e0c96a5fe43d813b7d3fb4ad70f333f874a51d",
     "match_id": 142727
   },
   {
-    "title": "Qualifying Session",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139555_english_hls_1aa05d46cb78220_1ta-di_h264/index.m3u8",
-    "match_id": 139555
+    "title": "Featured Groups - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143111_english_hls_fb4559222f5761_1ta-di_h264/index.m3u8",
+    "match_id": 143111
+  },
+  {
+    "title": "Marquee Feed - Day 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143110_english_hls_3833df55be29441_1ta-di_h264/index.m3u8",
+    "match_id": 143110
+  },
+  {
+    "title": "Practice 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/139448_english_hls_d36c53398345072_1ta-di_h264/index.m3u8",
+    "match_id": 139448
   }
 ]
