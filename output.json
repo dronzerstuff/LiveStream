@@ -1,21 +1,15 @@
 [
   {
-    "title": "Liege Red Lions vs Ghent Gladiators",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143150_6108_LRL_GG_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143150_english_hls_1cb216381c56847_1ta-di_h264/index.m3u8",
-    "match_id": 143150
-  },
-  {
     "title": "Canada vs USA",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8",
     "match_id": 143195
   },
   {
-    "title": "Indore Pink Panthers vs Jabalpur Royal Lions",
-    "image": "https://images.fancode.com/aig/match/v1780469022397/143064_CASACARDS_APP.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143064_english_hls_30f3d99f9a60143_1ta-di_h264/index.m3u8",
-    "match_id": 143064
+    "title": "West Indies vs Sri Lanka",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8",
+    "match_id": 142973
   },
   {
     "title": "Main Feed - Day 3",
@@ -40,11 +34,5 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143048_english_hls_27749d150662511_1ta-di_h264/index.m3u8",
     "match_id": 143048
-  },
-  {
-    "title": "Northern Challengers vs Mumbai Marines",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142990_6094_MM_NC_FC-WEB_1780318028403.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142990_english_hls_bc5e7c28a633215_1ta-di_h264/index.m3u8",
-    "match_id": 142990
   }
 ]
