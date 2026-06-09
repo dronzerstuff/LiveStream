@@ -6,16 +6,10 @@
     "match_id": 142965
   },
   {
-    "title": "Gujarat Diamonds vs MP Tigers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142993_english_hls_17a4a719f019415_1ta-di_h264/index.m3u8",
-    "match_id": 142993
-  },
-  {
-    "title": "Liege Red Lions vs Akcel United Brussels",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143155_english_hls_008f6701d368270_1ta-di_h264/index.m3u8",
-    "match_id": 143155
+    "title": "UP Brij Stars vs Southern Spartans",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/142994_6094_UPBS_SS_FC-WEB_1780318028429.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/index.m3u8",
+    "match_id": 142994
   },
   {
     "title": "Day 2",
@@ -28,5 +22,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/index.m3u8",
     "match_id": 143119
+  },
+  {
+    "title": "Day 2 - Court 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/index.m3u8",
+    "match_id": 143350
   }
 ]
