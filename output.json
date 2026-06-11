@@ -1,38 +1,8 @@
 [
   {
-    "title": "Gwalior Cheetahs vs Chambal Ghariyals",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143076_6102_GC_CGS_FC-WEB.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143076_english_hls_da18bcd58679074_1ta-di_h264/index.m3u8",
-    "match_id": 143076
-  },
-  {
     "title": "Day 4 - Center Court",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143121_english_hls_48cb2ff58780838_1ta-di_h264/index.m3u8",
     "match_id": 143121
-  },
-  {
-    "title": "Day 1 - Main Feed",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143202_english_hls_03f14a84c86923_1ta-di_h264/index.m3u8",
-    "match_id": 143202
-  },
-  {
-    "title": "Day 1 - Featured Holes",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143204_english_hls_03f28e66e28788_1ta-di_h264/index.m3u8",
-    "match_id": 143204
-  },
-  {
-    "title": "Day 1 - Featured Groups",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143205_english_hls_697ff70c8313826_1ta-di_h264/index.m3u8",
-    "match_id": 143205
-  },
-  {
-    "title": "Day 1 - Marquee Group",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/index.m3u8",
-    "match_id": 143203
   }
 ]
