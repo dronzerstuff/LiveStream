@@ -6,28 +6,10 @@
     "match_id": 143166
   },
   {
-    "title": "Bangladesh vs Australia",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/142967_english_hls_3ca0c433b823669_1ta-di_h264/index.m3u8",
-    "match_id": 142967
-  },
-  {
-    "title": "Final - Center Court",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143124_english_hls_a6240f4b8f4552_1ta-di_h264/index.m3u8",
-    "match_id": 143124
-  },
-  {
-    "title": "Final - Center Court",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143131_english_hls_526d61351b83381_1ta-di_h264/index.m3u8",
-    "match_id": 143131
-  },
-  {
-    "title": "Race",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139456_english_hls_eccdaac4db82436_1ta-di_h264/index.m3u8",
-    "match_id": 139456
+    "title": "USA vs Netherlands",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/143199_6110_USA_NED_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143199_english_hls_410aaaebd739315_1ta-di_h264/index.m3u8",
+    "match_id": 143199
   },
   {
     "title": "Day 4 - Featured Groups",
@@ -40,5 +22,17 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/index.m3u8",
     "match_id": 143217
+  },
+  {
+    "title": "Day 4 - Featured Holes",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/index.m3u8",
+    "match_id": 143219
+  },
+  {
+    "title": "Day 4 - Marquee Group",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/index.m3u8",
+    "match_id": 143218
   }
 ]
