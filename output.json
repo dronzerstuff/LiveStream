@@ -1,20 +1,8 @@
 [
   {
-    "title": "Mysore Warriors vs Kalyani Bengaluru Blasters",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143422_6134_MW_KBB_FC-WEB.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143422_english_hls_d467f052c451012_1ta-di_h264/index.m3u8",
-    "match_id": 143422
-  },
-  {
     "title": "Day 2",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
     "match_id": 143278
-  },
-  {
-    "title": "Day 3",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143272_english_hls_f465b38c6c84328_1ta-di_h264/index.m3u8",
-    "match_id": 143272
   }
 ]
