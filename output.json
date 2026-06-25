@@ -1,33 +1,27 @@
 [
   {
-    "title": "Mysore Warriors vs Coastal Kings Mangaluru",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143425_6134_CKM_MW_FC-WEB_1782272593703.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143425_english_hls_917d421df854148_1ta-di_h264/index.m3u8",
-    "match_id": 143425
-  },
-  {
-    "title": "Royal Nimar Eagles vs Rewa Jaguars",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143103_english_hls_55a82b541020876_1ta-di_h264/index.m3u8",
-    "match_id": 143103
-  },
-  {
-    "title": "Sonipat Kings vs Jayqo Panthers Faridabad",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143553_english_hls_50fb9f63d177693_1ta-di_h264/index.m3u8",
-    "match_id": 143553
-  },
-  {
     "title": "Singapore vs Indonesia",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/143548_6143_SIN_INA_FC-Web.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
     "match_id": 143548
   },
   {
+    "title": "Bermuda vs Panama",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/143289_6120_BER_PAN_fc-web_1782137828894.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143289_english_hls_e71118a81b13949_1ta-di_h264/index.m3u8",
+    "match_id": 143289
+  },
+  {
     "title": "Namibia vs Nigeria",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8",
     "match_id": 143320
+  },
+  {
+    "title": "Hubli Tigers vs Gulbarga Mystics",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/143426_6134_HT_GMY_FC-WEB_1782272593052.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/index.m3u8",
+    "match_id": 143426
   },
   {
     "title": "Day 5",
@@ -40,5 +34,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143280_english_hls_4b57dd43a573509_1ta-di_h264/index.m3u8",
     "match_id": 143280
+  },
+  {
+    "title": "Main Feed - Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8",
+    "match_id": 143574
   }
 ]
