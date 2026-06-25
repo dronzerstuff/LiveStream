@@ -6,18 +6,6 @@
     "match_id": 142978
   },
   {
-    "title": "Chambal Ghariyals vs Jabalpur Royal Lions",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/index.m3u8",
-    "match_id": 143104
-  },
-  {
-    "title": "DDH Meerut Spartans vs KA Noida Blaze",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/index.m3u8",
-    "match_id": 143554
-  },
-  {
     "title": "Brazil vs Bahamas",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/143290_6120_BRA_BAH_fc-web_1782137828207.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/index.m3u8",
@@ -28,5 +16,11 @@
     "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8",
     "match_id": 143574
+  },
+  {
+    "title": "World Feed - Day 1",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/index.m3u8",
+    "match_id": 143297
   }
 ]
