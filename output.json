@@ -6,12 +6,6 @@
     "match_id": 142978
   },
   {
-    "title": "Namibia vs Nigeria",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-    "match_id": 143321
-  },
-  {
     "title": "Bahamas vs Belize",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-web_1782198800787.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/index.m3u8",
@@ -43,20 +37,8 @@
   },
   {
     "title": "Men's Final",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-    "match_id": 143276
-  },
-  {
-    "title": "Men's Final",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143282_english_hls_649a90300b40021_1ta-di_h264/index.m3u8",
     "match_id": 143282
-  },
-  {
-    "title": "Qualifying",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/139460_english_hls_91872b76b27934_1ta-di_h264/index.m3u8",
-    "match_id": 139460
   }
 ]
