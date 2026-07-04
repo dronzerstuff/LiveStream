@@ -6,12 +6,6 @@
     "match_id": 142979
   },
   {
-    "title": "Namibia vs Vidarbha",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/index.m3u8",
-    "match_id": 143629
-  },
-  {
     "title": "Day 3 - Main Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/index.m3u8",
@@ -24,21 +18,15 @@
     "match_id": 143580
   },
   {
-    "title": "ADAC GT Race 1 - Norisring",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143620_english_hls_017771f64f82845_1ta-di_h264/index.m3u8",
-    "match_id": 143620
-  },
-  {
     "title": "Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
     "link": "https://in-mc-fblive.fancode.com/mumbai/143410_english_hls_1d04ae6f6288662_1ta-di_h264/index.m3u8",
     "match_id": 143410
   },
   {
-    "title": "Mis-e-Ainak Knights vs Amo Sharks",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg",
-    "link": "https://in-mc-fblive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/index.m3u8",
-    "match_id": 143588
+    "title": "Qualifying",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
+    "link": "https://in-mc-fblive.fancode.com/mumbai/139465_english_hls_b08d6ed28917235_1ta-di_h264/index.m3u8",
+    "match_id": 139465
   }
 ]
