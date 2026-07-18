@@ -12,15 +12,15 @@
     "match_id": 4246810
   },
   {
-    "title": "Semi-Finals",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Nordea-Open_Web-match-card.png",
-    "link": "https://in-mc-pdlive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/index.m3u8",
-    "match_id": 143488
-  },
-  {
     "title": "Day 3",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
     "link": "https://in-mc-pdlive.fancode.com/mumbai/4246625_english_hls_5ad9610a7423159_1ta-di_h264/index.m3u8",
     "match_id": 4246625
+  },
+  {
+    "title": "Finals",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg",
+    "link": "https://in-mc-pdlive.fancode.com/mumbai/143502_english_hls_012bc89fe344386_1ta-di_h264/index.m3u8",
+    "match_id": 143502
   }
 ]
