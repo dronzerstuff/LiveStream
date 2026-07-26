@@ -2,19 +2,31 @@
   {
     "title": "Jaffna Kings vs Kandy Royals",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/4246728_52991_KRL_JK_FC-WEB.jpg",
-    "link": "https://in-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8",
+    "link": "https://livecf.fancode.com/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8",
     "match_id": 4246728
   },
   {
     "title": "India vs Zimbabwe",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-    "link": "https://in-mc-pdlive.fancode.com/mumbai/143353_english_hls_63ced2230f71145_1ta-di_h264/index.m3u8",
+    "link": "https://livecf.fancode.com/143353_english_hls_63ced2230f71145_1ta-di_h264/index.m3u8",
     "match_id": 143353
   },
   {
     "title": "Day 4 - World Feed",
     "image": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg",
-    "link": "https://in-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8",
+    "link": "https://livecf.fancode.com/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8",
     "match_id": 4247420
+  },
+  {
+    "title": "Race 2",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+    "link": "https://livecf.fancode.com/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8",
+    "match_id": 143801
+  },
+  {
+    "title": "Race",
+    "image": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
+    "link": "https://livecf.fancode.com/139476_english_hls_cf562dba5f52319_1ta-di_h264/index.m3u8",
+    "match_id": 139476
   }
 ]
